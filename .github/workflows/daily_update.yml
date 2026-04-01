@@ -1,0 +1,40 @@
+name: Daily Price Update
+
+on:
+  schedule:
+    # 設定每天凌晨 00:00 (UTC時間) 執行，約台灣時間早上 08:00
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允許你手動點擊按鈕立即執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 檢出代碼
+      uses: actions/checkout@v3
+
+    - name: 設定 Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 安裝依賴與瀏覽器
+      run: |
+        pip install -r requirements.txt
+        playwright install chromium
+
+    - name: 執行所有爬蟲
+      run: |
+        python pxmart_scanner.py
+        python carrefour_scanner.py
+        python watsons_scanner.py
+        python cosmed_scanner.py
+
+    - name: 更新 JSON 檔案至 GitHub
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add *.json
+        git commit -m "自動更新每日價格資料" || exit 0
+        git push
