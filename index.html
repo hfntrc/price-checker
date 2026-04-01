@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>抗漲大隊 - 四大通路買一送一即時比價</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;900&display=swap');
+        
+        body { 
+            font-family: 'Noto Sans TC', sans-serif; 
+        }
+
+        /* 修正 line-clamp 相容性：同時定義標準與 Webkit 屬性 */
+        .custom-line-clamp {
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            line-clamp: 2; /* 標準屬性 */
+            overflow: hidden;
+        }
+
+        /* 價格漸層字體：修正 background-clip 相容性 */
+        .price-text {
+            background: linear-gradient(to right, #ef4444, #dc2626);
+            -webkit-background-clip: text; /* 舊版/Webkit 支援 */
+            background-clip: text;         /* 標準屬性 (Standard property) */
+            -webkit-text-fill-color: transparent;
+            color: #ef4444; /* 備用顏色，防止不支援漸層的瀏覽器顯示空白 */
+        }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen text-slate-800">
+
+<div id="app" class="container mx-auto px-4 py-8">
+    
+    <header class="text-center mb-10">
+        <div class="inline-block p-3 bg-white rounded-2xl shadow-sm mb-4">
+            <i class="fa-solid fa-hand-holding-dollar text-4xl text-indigo-600"></i>
+        </div>
+        <h1 class="text-4xl font-black tracking-tight mb-2">抗漲大隊 <span class="text-indigo-600">比價王</span></h1>
+        <p class="text-slate-500 font-medium">即時聚合 全聯 / 家樂福 / 屈臣氏 / 康是美 買一送一資訊</p>
+    </header>
+
+    <div class="sticky top-4 z-50 mb-10">
+        <div class="max-w-3xl mx-auto">
+            <div class="relative group">
+                <input v-model="searchQuery" type="text" 
+                       placeholder="搜尋關鍵字（如：康寶、香水、衛生紙）..." 
+                       class="w-full p-5 pl-14 rounded-2xl border-none shadow-2xl focus:ring-4 focus:ring-indigo-500/20 text-lg transition-all">
+                <i class="fa-solid fa-search absolute left-5 top-1/2 -translate-y-1/2 text-slate-400 group-focus-within:text-indigo-600"></i>
+                
+                <div class="absolute right-5 top-1/2 -translate-y-1/2 bg-slate-100 px-3 py-1 rounded-lg text-xs font-bold text-slate-500">
+                    找到 {{ filteredProducts.length }} 項
+                </div>
+            </div>
+
+            <div class="flex flex-wrap justify-center gap-2 mt-4">
+                <button @click="filterSource = '全部'" 
+                    :class="filterSource === '全部' ? 'bg-slate-800 text-white shadow-lg' : 'bg-white text-slate-600 hover:bg-slate-100'"
+                    class="px-5 py-2 rounded-xl text-sm font-bold transition-all border border-transparent">
+                    全部
+                </button>
+                <button @click="filterSource = '全聯'" 
+                    :class="filterSource === '全聯' ? 'bg-blue-600 text-white shadow-lg' : 'bg-white text-blue-600 hover:bg-blue-50'"
+                    class="px-5 py-2 rounded-xl text-sm font-bold transition-all border border-blue-100">
+                    全聯
+                </button>
+                <button @click="filterSource = '家樂福'" 
+                    :class="filterSource === '家樂福' ? 'bg-orange-500 text-white shadow-lg' : 'bg-white text-orange-500 hover:bg-orange-50'"
+                    class="px-5 py-2 rounded-xl text-sm font-bold transition-all border border-orange-100">
+                    家樂福
+                </button>
+                <button @click="filterSource = '屈臣氏'" 
+                    :class="filterSource === '屈臣氏' ? 'bg-emerald-500 text-white shadow-lg' : 'bg-white text-emerald-600 hover:bg-emerald-50'"
+                    class="px-5 py-2 rounded-xl text-sm font-bold transition-all border border-emerald-100">
+                    屈臣氏
+                </button>
+                <button @click="filterSource = '康是美'" 
+                    :class="filterSource === '康是美' ? 'bg-rose-600 text-white shadow-lg' : 'bg-white text-rose-600 hover:bg-rose-50'"
+                    class="px-5 py-2 rounded-xl text-sm font-bold transition-all border border-rose-100">
+                    康是美
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div v-if="filteredProducts.length > 0" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <div v-for="(item, index) in filteredProducts" :key="index" 
+             class="bg-white rounded-3xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-slate-100 flex flex-col group overflow-hidden">
+            
+            <div class="p-6 flex-grow">
+                <div class="flex justify-between items-start mb-4">
+                    <span :class="getSourceBadgeClass(item.source)" 
+                          class="text-white text-[10px] uppercase tracking-widest px-3 py-1 rounded-full font-black">
+                        {{ item.source }}
+                    </span>
+                    <span class="text-rose-500 text-xs font-bold bg-rose-50 px-2 py-1 rounded-md">買一送一</span>
+                </div>
+                
+                <h3 class="text-slate-800 font-bold text-base leading-snug mb-2 custom-line-clamp h-12 group-hover:text-indigo-600 transition-colors">
+                    {{ item.name }}
+                </h3>
+
+                <div v-if="item.info" class="text-xs text-slate-400 mb-4 bg-slate-50 p-2 rounded-lg italic">
+                    <i class="fa-solid fa-tag mr-1"></i>{{ item.info }}
+                </div>
+                
+                <div class="flex items-baseline gap-1 mt-auto">
+                    <span class="text-slate-400 text-sm font-medium">特價</span>
+                    <span class="price-text font-black text-2xl tracking-tight">
+                        {{ item.price }}
+                    </span>
+                </div>
+            </div>
+            
+            <div class="px-6 py-4 bg-slate-50/50 border-t border-slate-50 flex justify-between items-center">
+                <span class="text-slate-400 text-[10px] font-bold uppercase tracking-wider">Quick View</span>
+                <div class="w-8 h-8 rounded-full bg-white flex items-center justify-center text-slate-300 group-hover:bg-indigo-600 group-hover:text-white transition-all shadow-sm">
+                    <i class="fa-solid fa-arrow-right-long text-xs"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div v-else class="flex flex-col items-center justify-center py-32 text-slate-300">
+        <i class="fa-solid fa-face-sad-tear text-8xl mb-6 opacity-20"></i>
+        <p class="text-xl font-bold text-slate-400">目前沒有符合關鍵字的商品</p>
+        <p class="text-sm">請檢查爬蟲 .json 檔案是否存在，或嘗試其他關鍵字</p>
+    </div>
+
+    <footer class="mt-20 pb-10 text-center border-t border-slate-200 pt-10">
+        <p class="text-slate-400 text-[10px] font-bold tracking-widest uppercase">
+            &copy; 2026 抗漲大隊 - 比價系統 Beta
+        </p>
+    </footer>
+</div>
+
+<script>
+    const { createApp } = Vue;
+
+    createApp({
+        data() {
+            return {
+                searchQuery: '',
+                filterSource: '全部',
+                allProducts: []
+            }
+        },
+        computed: {
+            filteredProducts() {
+                return this.allProducts.filter(p => {
+                    const matchesSearch = p.name.toLowerCase().includes(this.searchQuery.toLowerCase());
+                    const matchesSource = this.filterSource === '全部' || p.source === this.filterSource;
+                    return matchesSearch && matchesSource;
+                });
+            }
+        },
+        methods: {
+            getSourceBadgeClass(source) {
+                const colors = {
+                    '全聯': 'bg-blue-600',
+                    '家樂福': 'bg-orange-500',
+                    '屈臣氏': 'bg-emerald-500',
+                    '康是美': 'bg-rose-600'
+                };
+                return colors[source] || 'bg-slate-400';
+            },
+            async loadData() {
+                const files = [
+                    { name: '全聯', url: 'pxmart.json' },
+                    { name: '家樂福', url: 'carrefour.json' },
+                    { name: '屈臣氏', url: 'watsons.json' },
+                    { name: '康是美', url: 'cosmed.json' }
+                ];
+
+                try {
+                    const results = await Promise.all(
+                        files.map(f => 
+                            fetch(f.url)
+                                .then(res => res.ok ? res.json() : [])
+                                .then(data => data.map(item => ({ ...item, source: f.name })))
+                                .catch(() => []) 
+                        )
+                    );
+                    this.allProducts = results.flat();
+                } catch (e) {
+                    console.error("資料載入發生異常", e);
+                }
+            }
+        },
+        mounted() {
+            this.loadData();
+        }
+    }).mount('#app');
+</script>
+
+</body>
+</html>
