@@ -28,7 +28,7 @@ jobs:
       run: |
         python pxmart_scanner.py
         python carrefour_scanner.py
-        python watsons_scanner.py
+        # python watsons_scanner.py
         python cosmed_scanner.py
 
     - name: 更新 JSON 檔案至 GitHub
