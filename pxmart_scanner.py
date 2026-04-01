@@ -9,7 +9,7 @@ async def run():
         
         # 使用原生偽裝啟動
         browser = await p.chromium.launch(
-            headless=False,
+            headless=True,
             args=["--disable-blink-features=AutomationControlled"]
         )
         

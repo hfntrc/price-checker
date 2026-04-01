@@ -8,7 +8,7 @@ async def run():
         print("🌐 啟動康是美自動化爬蟲 (無限捲軸版)...")
         
         browser = await p.chromium.launch(
-            headless=False,
+            headless=True,
             args=["--disable-blink-features=AutomationControlled"]
         )
         
