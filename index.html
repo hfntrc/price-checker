@@ -78,7 +78,7 @@
         <div class="sticky top-4 z-50 mb-10 max-w-4xl mx-auto">
             <div class="relative group shadow-2xl rounded-2xl overflow-hidden">
                 <input v-model="searchQuery" type="text" 
-                       placeholder="搜尋全台買一送一商品..." 
+                       placeholder="搜尋全台比價商品..." 
                        class="w-full p-6 pl-14 bg-white border-none text-lg outline-none">
                 <i class="fa-solid fa-magnifying-glass absolute left-6 top-1/2 -translate-y-1/2 text-slate-300 group-focus-within:text-indigo-600 transition-colors"></i>
                 
@@ -90,7 +90,7 @@
             </div>
 
             <div class="flex flex-wrap justify-center gap-2 mt-6">
-                <button v-for="source in ['全部', '全聯', '家樂福', '屈臣氏', '康是美']" 
+                <button v-for="source in ['全部', '全聯', '家樂福', '屈臣氏', '康是美', '寶雅']" 
                         @click="filterSource = source"
                         :class="filterSource === source ? 'bg-slate-800 text-white shadow-md' : 'bg-white text-slate-500 hover:bg-slate-50'"
                         class="px-5 py-2 rounded-xl text-xs font-black transition-all border border-transparent">
@@ -114,7 +114,7 @@
                         </span>
                         <div class="flex gap-1">
                             <span class="w-2 h-2 rounded-full bg-rose-500 animate-pulse"></span>
-                            <span class="text-rose-500 text-[10px] font-black uppercase">BOGO</span>
+                            <span class="text-rose-500 text-[10px] font-black uppercase">PRICE</span>
                         </div>
                     </div>
                     
@@ -128,7 +128,7 @@
                     
                     <div class="flex items-end gap-1">
                         <span class="price-text font-black text-3xl tracking-tighter italic">
-                            {{ item.price }}
+                            NT$ {{ item.price }}
                         </span>
                     </div>
                 </div>
@@ -162,15 +162,10 @@
     createApp({
         data() {
             return {
-                // --- 密碼安全區 ---
                 isAuthorized: false,
                 passwordInput: '',
                 loginError: false,
-                // 預設密碼 '1234' 的 MD5 值
-                // 若要更改，請將新密碼轉為 MD5 後貼在此處
                 hashedPassword: '77902d80ff17f7a529a9e26c34604b75',
-                
-                // --- 資料區 ---
                 searchQuery: '',
                 filterSource: '全部',
                 allProducts: []
@@ -207,7 +202,8 @@
                     '全聯': 'bg-blue-600',
                     '家樂福': 'bg-orange-500',
                     '屈臣氏': 'bg-emerald-500',
-                    '康是美': 'bg-rose-600'
+                    '康是美': 'bg-rose-600',
+                    '寶雅': 'bg-pink-500' // 定義寶雅的顏色為粉紅色
                 };
                 return colors[source] || 'bg-slate-400';
             },
@@ -216,7 +212,8 @@
                     { name: '全聯', url: 'pxmart.json' },
                     { name: '家樂福', url: 'carrefour.json' },
                     { name: '屈臣氏', url: 'watsons.json' },
-                    { name: '康是美', url: 'cosmed.json' }
+                    { name: '康是美', url: 'cosmed.json' },
+                    { name: '寶雅', url: 'poya.json' } // 加入寶雅的資料來源
                 ];
 
                 try {
@@ -235,7 +232,6 @@
             }
         },
         mounted() {
-            // 自動登入檢查
             if (sessionStorage.getItem('price_auth') === 'true') {
                 this.isAuthorized = true;
                 this.loadData();
