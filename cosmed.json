@@ -50,18 +50,13 @@
         "source": "康是美"
     },
     {
-        "name": "潔美淨 層脂質安撫修護AI面膜4入",
-        "price": "NT$499",
-        "source": "康是美"
-    },
-    {
         "name": "LOREAL PARIS巴黎萊雅溫和眼唇卸妝液125ml",
         "price": "NT$379",
         "source": "康是美"
     },
     {
-        "name": "SOFY蘇菲超熟睡超薄草本抑菌細緻棉柔35cm7片(包裝隨機出貨)",
-        "price": "NT$99",
+        "name": "潔美淨 層脂質安撫修護AI面膜4入",
+        "price": "NT$499",
         "source": "康是美"
     },
     {
@@ -75,37 +70,7 @@
         "source": "康是美"
     },
     {
-        "name": "衛生棉推薦 Kotex靠得住 茶樹舒涼棉 23cm10片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "康乃馨寶寶潔膚濕巾超厚外出包20片三入組(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "叮寧防蚊液25ml",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "立得清抗病毒濕巾50抽（腸病毒）/包(包裝隨機出貨)",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲彈力抑菌潔淨夜用28cm13片(新舊包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "衛生棉康乃馨御守棉夜用極長40cm7片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "舒潔女性專用濕式衛生紙14抽2包(包裝隨機出貨)",
+        "name": "SOFY蘇菲超熟睡超薄草本抑菌細緻棉柔35cm7片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
@@ -115,18 +80,23 @@
         "source": "康是美"
     },
     {
-        "name": "乖乖金順純水濕巾88抽（加蓋）",
-        "price": "NT$70",
+        "name": "叮寧防蚊液25ml",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "DARLIE好來 全亮白清新薄荷牙膏140g",
-        "price": "NT$115",
+        "name": "康乃馨寶寶潔膚濕巾超厚外出包20片三入組(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "DARLIE好來超氟多效護理牙膏180g",
-        "price": "NT$120",
+        "name": "衛生棉康乃馨御守棉夜用極長40cm7片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "衛生棉推薦 Kotex靠得住 茶樹舒涼棉 23cm10片(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -135,8 +105,63 @@
         "source": "康是美"
     },
     {
+        "name": "蘇菲彈力抑菌潔淨夜用28cm13片(新舊包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "乖乖金順純水濕巾88抽（加蓋）",
+        "price": "NT$70",
+        "source": "康是美"
+    },
+    {
+        "name": "舒潔女性專用濕式衛生紙14抽2包(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "DARLIE好來 全亮白清新薄荷牙膏140g",
+        "price": "NT$115",
+        "source": "康是美"
+    },
+    {
+        "name": "康乃馨瞬吸透氣護墊加長型（無香）17公分24片",
+        "price": "NT$59",
+        "source": "康是美"
+    },
+    {
+        "name": "Simply新普利 Super超級夜酵素DX錠",
+        "price": "NT$1,680",
+        "source": "康是美"
+    },
+    {
         "name": "SOFY蘇菲極淨肌天然草本抑菌超薄26cm11片鼠尾草(包裝隨機出貨)",
         "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲天然積雪草系列超薄潔翼日用26cm 11片",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "醫美精華液-DR.WU達爾膚 角鯊潤澤修復精華油30ML",
+        "price": "NT$2,000",
+        "source": "康是美"
+    },
+    {
+        "name": "DARLIE好來超氟多效護理牙膏180g",
+        "price": "NT$120",
+        "source": "康是美"
+    },
+    {
+        "name": "護墊推薦 愛康透芯涼感棉-護墊15.5cm20片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "COSMED柔膚濕紙巾/濕巾80片x3包/袋[可超取]",
+        "price": "NT$237",
         "source": "康是美"
     },
     {
@@ -150,63 +175,8 @@
         "source": "康是美"
     },
     {
-        "name": "COSMED柔膚濕紙巾/濕巾80片x3包/袋[可超取]",
-        "price": "NT$237",
-        "source": "康是美"
-    },
-    {
-        "name": "愛康透芯涼感棉-量少型19cm9片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "醫美精華液-DR.WU達爾膚 角鯊潤澤修復精華油30ML",
-        "price": "NT$2,000",
-        "source": "康是美"
-    },
-    {
-        "name": "Simply新普利 Super超級夜酵素DX錠",
-        "price": "NT$1,680",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲天然積雪草系列超薄潔翼日用26cm 11片",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
         "name": "SOFY蘇菲極淨肌天然原生棉超薄29cm10片",
         "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "護墊推薦 愛康透芯涼感棉-護墊15.5cm20片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "康乃馨瞬吸透氣護墊加長型（無香）17公分24片",
-        "price": "NT$59",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲彈力貼身超薄23CM細緻棉柔12片",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "OYATSU優雅食 星太郎點心麵中香辣36g",
-        "price": "NT$28",
-        "source": "康是美"
-    },
-    {
-        "name": "醫美精華液-DR.WU達爾膚 杏仁酸亮白煥膚精華18% 30mL",
-        "price": "NT$1,600",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC 柔光潤色隔離防曬乳50ml",
-        "price": "NT$900",
         "source": "康是美"
     },
     {
@@ -215,28 +185,13 @@
         "source": "康是美"
     },
     {
-        "name": "蜂王 燕麥舒緩柔膚皂90g",
-        "price": "NT$45",
-        "source": "康是美"
-    },
-    {
-        "name": "UNIDESIGN酒精擦濕巾10抽（酒精濕巾）3入",
+        "name": "愛康透芯涼感棉-量少型19cm9片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "康乃馨純淨棉衛生棉量多加長型（28cm）14片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "kotex靠得住 完美封漏長夜抑菌35cm棉柔8片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "古寶無患子白茶椿花抗菌沐浴精華露600g",
-        "price": "NT$219",
+        "name": "AHC 柔光潤色隔離防曬乳50ml",
+        "price": "NT$900",
         "source": "康是美"
     },
     {
@@ -245,32 +200,37 @@
         "source": "康是美"
     },
     {
-        "name": "澳寶一分鐘焗油日常護理款225ml",
-        "price": "NT$149",
+        "name": "醫美精華液-DR.WU達爾膚 杏仁酸亮白煥膚精華18% 30mL",
+        "price": "NT$1,600",
         "source": "康是美"
     },
     {
-        "name": "衛生棉康乃馨御守棉夜用超長36.5cm9片(包裝隨機出貨)",
+        "name": "OYATSU優雅食 星太郎點心麵中香辣36g",
+        "price": "NT$28",
+        "source": "康是美"
+    },
+    {
+        "name": "UNIDESIGN酒精擦濕巾10抽（酒精濕巾）3入",
         "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "曼秀雷敦Acnes抗痘沐浴乳600ml",
-        "price": "NT$220",
-        "source": "康是美"
-    },
-    {
-        "name": "Kotex靠得住 草本抑菌 26cm 13片(包裝隨機出貨)",
+        "name": "愛康透芯涼感棉-夜用超長41cm4片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "Kotex靠得住 蘆薈高透氧護墊沐浴香氛17.5cm 24片4入(包裝隨機出貨)",
-        "price": "NT$159",
+        "name": "蘇菲彈力貼身超薄23CM細緻棉柔12片",
+        "price": "NT$79",
         "source": "康是美"
     },
     {
-        "name": "愛康抗菌衛生棉夜用加長33cm6片(包裝隨機出貨)",
+        "name": "蜂王 燕麥舒緩柔膚皂90g",
+        "price": "NT$45",
+        "source": "康是美"
+    },
+    {
+        "name": "康乃馨純淨棉衛生棉量多加長型（28cm）14片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
@@ -280,13 +240,28 @@
         "source": "康是美"
     },
     {
-        "name": "Colgate高露潔 抗敏感牙齦護理牙膏120g",
-        "price": "NT$169",
+        "name": "曼秀雷敦Acnes抗痘沐浴乳600ml",
+        "price": "NT$220",
         "source": "康是美"
     },
     {
-        "name": "舒潔淨99抗菌濕巾10抽3包(包裝隨機出貨)",
-        "price": "NT$89",
+        "name": "Kotex靠得住 蘆薈高透氧護墊沐浴香氛17.5cm 24片4入(包裝隨機出貨)",
+        "price": "NT$159",
+        "source": "康是美"
+    },
+    {
+        "name": "kotex靠得住 完美封漏長夜抑菌35cm棉柔8片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "Kotex靠得住 草本抑菌 26cm 13片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "衛生棉康乃馨御守棉夜用超長36.5cm9片(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -295,8 +270,28 @@
         "source": "康是美"
     },
     {
-        "name": "古寶無患子櫻花紫羅蘭亮白沐浴精華露600g",
+        "name": "古寶無患子白茶椿花抗菌沐浴精華露600g",
         "price": "NT$219",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲100%天然棉護墊15.5CM(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "愛康抗菌衛生棉夜用加長33cm6片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "立得清抗病毒濕巾50抽（腸病毒）/包(包裝隨機出貨)",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲極淨肌天然原生棉超薄26cm11片(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -305,8 +300,13 @@
         "source": "康是美"
     },
     {
-        "name": "TheraBreath凱斯博士漱口水-溫和薄荷473ml",
-        "price": "NT$690",
+        "name": "Colgate高露潔 抗敏感牙齦護理牙膏120g",
+        "price": "NT$169",
+        "source": "康是美"
+    },
+    {
+        "name": "古寶無患子櫻花紫羅蘭亮白沐浴精華露600g",
+        "price": "NT$219",
         "source": "康是美"
     },
     {
@@ -315,13 +315,23 @@
         "source": "康是美"
     },
     {
-        "name": "UNIDESIGN純水嬰兒柔膚濕巾超厚型80抽3入",
-        "price": "NT$255",
+        "name": "蜂王 艾草山藥水潤美肌潔膚皂",
+        "price": "NT$59",
         "source": "康是美"
     },
     {
-        "name": "SOFY蘇菲極淨肌天然原生棉超薄26cm11片(包裝隨機出貨)",
-        "price": "NT$99",
+        "name": "舒潔淨99抗菌濕巾10抽3包(包裝隨機出貨)",
+        "price": "NT$89",
+        "source": "康是美"
+    },
+    {
+        "name": "TheraBreath凱斯博士漱口水-溫和薄荷473ml",
+        "price": "NT$690",
+        "source": "康是美"
+    },
+    {
+        "name": "UNIDESIGN純水嬰兒柔膚濕巾超厚型80抽3入",
+        "price": "NT$255",
         "source": "康是美"
     },
     {
@@ -335,22 +345,22 @@
         "source": "康是美"
     },
     {
-        "name": "蜂王 艾草山藥水潤美肌潔膚皂",
-        "price": "NT$59",
-        "source": "康是美"
-    },
-    {
-        "name": "愛康透芯涼感棉-夜用超長41cm4片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
         "name": "蘇菲清新涼感極薄23cm薄荷清涼9片",
         "price": "NT$99",
         "source": "康是美"
     },
     {
+        "name": "盛香珍濃厚巧克力風味法國酥100g",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
         "name": "Kotex靠得住完美封漏晚安好眠褲L號2片 （新舊包裝隨機出貨）",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲天然原生棉14CM超薄護墊40片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
@@ -360,7 +370,47 @@
         "source": "康是美"
     },
     {
-        "name": "SOFY蘇菲100%天然棉護墊15.5CM(包裝隨機出貨)",
+        "name": "AQUAMAX奧科美氏ExoriginTM泌蘭精萃修護微導面膜5片（盒裝）",
+        "price": "NT$422",
+        "source": "康是美"
+    },
+    {
+        "name": "SEXYLOOK 海茴香外泌體水光面膜（4入/盒）",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "楓康弧形海棉菜瓜布4片裝",
+        "price": "NT$68",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲清新涼感超薄35CM薄荷清涼6片",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "Amma Garden艾瑪花園絲柏頭皮spa洗髮精300ml",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "未來美8分鐘麗珠肽保濕面膜（3片/盒）",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲超熟睡褲涼感XL2片(包裝隨機出貨)",
+        "price": "NT$119",
+        "source": "康是美"
+    },
+    {
+        "name": "牙膏推薦 Colgate高露潔 抗敏感強護琺瑯質牙膏120g",
+        "price": "NT$169",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲超熟睡超薄草本抑菌細緻棉柔28cm10片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
@@ -370,93 +420,8 @@
         "source": "康是美"
     },
     {
-        "name": "SEXYLOOK 海茴香外泌體水光面膜（4入/盒）",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "SOFY蘇菲天然原生棉14CM超薄護墊40片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "牙膏推薦 Colgate高露潔 抗敏感強護琺瑯質牙膏120g",
-        "price": "NT$169",
-        "source": "康是美"
-    },
-    {
-        "name": "Amma Garden艾瑪花園絲柏頭皮spa洗髮精300ml",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "AQUAMAX奧科美氏ExoriginTM泌蘭精萃修護微導面膜5片（盒裝）",
-        "price": "NT$422",
-        "source": "康是美"
-    },
-    {
-        "name": "楓康弧形海棉菜瓜布4片裝",
-        "price": "NT$68",
-        "source": "康是美"
-    },
-    {
-        "name": "未來美8分鐘麗珠肽保濕面膜（3片/盒）",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲清新涼感超薄35CM薄荷清涼6片",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "SOFY蘇菲超熟睡褲涼感XL2片(包裝隨機出貨)",
-        "price": "NT$119",
-        "source": "康是美"
-    },
-    {
-        "name": "Kotex靠得住 草本抑菌35cm8片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC醫美科研雙波抗老多肽膠原抗皺眼霜30ml",
-        "price": "NT$1,300",
-        "source": "康是美"
-    },
-    {
-        "name": "卸妝推薦-NIVEA妮維雅極淨深層眼部卸妝液125ml",
-        "price": "NT$359",
-        "source": "康是美"
-    },
-    {
         "name": "kotex靠得住 茶樹舒涼棉 26cm 10片(包裝隨機出貨)",
         "price": "NT$109",
-        "source": "康是美"
-    },
-    {
-        "name": "盛香珍濃厚巧克力風味法國酥100g",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "潔美淨層脂質安撫修護AI精華液 30ml",
-        "price": "NT$1,100",
-        "source": "康是美"
-    },
-    {
-        "name": "SOFY蘇菲超熟睡超薄草本抑菌細緻棉柔28cm10片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "Avène雅漾HYDRA-10極簡水凝乳40ml",
-        "price": "NT$1,280",
-        "source": "康是美"
-    },
-    {
-        "name": "kotex靠得住 蘆薈高透氧護墊無香14.5cm26片4入(包裝隨機出貨)",
-        "price": "NT$159",
         "source": "康是美"
     },
     {
@@ -465,48 +430,8 @@
         "source": "康是美"
     },
     {
-        "name": "盛香珍海苔鹽迷你蘇打餅150g",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "舒潔沁涼冰巾10抽",
-        "price": "NT$69",
-        "source": "康是美"
-    },
-    {
-        "name": "Simple清妍溫和保濕潔顏乳150ml",
-        "price": "NT$179",
-        "source": "康是美"
-    },
-    {
-        "name": "興家安速液體電蚊香液４２ｍｌ＊２瓶",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "盛香珍濃厚草莓法國酥100g",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "Kotex靠得住 完美封漏長夜抑菌網層41cm7片(包裝隨機出貨)",
-        "price": "NT$139",
-        "source": "康是美"
-    },
-    {
-        "name": "未來美8分鐘麗珠肽修護面膜（3片/盒）",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC醫美科研超導水光玻尿酸精華40ML",
-        "price": "NT$1,400",
-        "source": "康是美"
-    },
-    {
-        "name": "Kotex靠得住完美封漏晚安好眠褲M號2片 （新舊包裝隨機出貨）",
-        "price": "NT$99",
+        "name": "Avène雅漾HYDRA-10極簡水凝乳40ml",
+        "price": "NT$1,280",
         "source": "康是美"
     },
     {
@@ -515,13 +440,83 @@
         "source": "康是美"
     },
     {
-        "name": "Hada-Labo肌研 毛穴對策洗顏乳100g",
-        "price": "NT$199",
+        "name": "Kotex靠得住 草本抑菌35cm8片(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "Kotex靠得住 茶樹舒涼護墊 17.5CM 18片(包裝隨機出貨)",
+        "name": "卸妝推薦-NIVEA妮維雅極淨深層眼部卸妝液125ml",
+        "price": "NT$359",
+        "source": "康是美"
+    },
+    {
+        "name": "Kotex靠得住完美封漏晚安好眠褲M號2片 （新舊包裝隨機出貨）",
         "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲清新涼感極薄23CM小黃瓜溫和微涼9片",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "Kotex靠得住 完美封漏長夜抑菌網層41cm7片(包裝隨機出貨)",
+        "price": "NT$139",
+        "source": "康是美"
+    },
+    {
+        "name": "興家安速160日防蚊網片",
+        "price": "NT$549",
+        "source": "康是美"
+    },
+    {
+        "name": "Simple清妍溫和保濕潔顏乳150ml",
+        "price": "NT$179",
+        "source": "康是美"
+    },
+    {
+        "name": "未來美8分鐘麗珠肽修護面膜（3片/盒）",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
+        "name": "舒潔沁涼冰巾10抽",
+        "price": "NT$69",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍KING72%巧克力綜合堅果",
+        "price": "NT$139",
+        "source": "康是美"
+    },
+    {
+        "name": "AHC醫美科研雙波抗老多肽膠原抗皺眼霜30ml",
+        "price": "NT$1,300",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍海苔鹽迷你蘇打餅150g",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍濃厚草莓法國酥100g",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
+        "name": "kotex靠得住 蘆薈高透氧護墊無香14.5cm26片4入(包裝隨機出貨)",
+        "price": "NT$159",
+        "source": "康是美"
+    },
+    {
+        "name": "AHC醫美科研超導水光玻尿酸精華40ML",
+        "price": "NT$1,400",
+        "source": "康是美"
+    },
+    {
+        "name": "興家安速液體電蚊香液４２ｍｌ＊２瓶",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -535,18 +530,8 @@
         "source": "康是美"
     },
     {
-        "name": "SOFY蘇菲超熟睡草本抑菌棉柔28CM衛生棉",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "盛香珍KING72%巧克力綜合堅果",
-        "price": "NT$139",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲清新涼感極薄23CM小黃瓜溫和微涼9片",
-        "price": "NT$99",
+        "name": "Hada-Labo肌研 毛穴對策洗顏乳100g",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -555,12 +540,7 @@
         "source": "康是美"
     },
     {
-        "name": "Blackmores澳佳寶 無腥味濃縮迷你深海魚油（60顆）",
-        "price": "NT$749",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲清新涼感極薄29cm小黃瓜溫和微涼7片",
+        "name": "Kotex靠得住 茶樹舒涼護墊 17.5CM 18片(包裝隨機出貨)",
         "price": "NT$99",
         "source": "康是美"
     },
@@ -570,18 +550,38 @@
         "source": "康是美"
     },
     {
+        "name": "潔美淨層脂質安撫修護AI精華液 30ml",
+        "price": "NT$1,100",
+        "source": "康是美"
+    },
+    {
+        "name": "Blackmores澳佳寶 無腥味濃縮迷你深海魚油（60顆）",
+        "price": "NT$749",
+        "source": "康是美"
+    },
+    {
         "name": "王麵河粉 （熟牛肉風味） 61g",
         "price": "NT$59",
         "source": "康是美"
     },
     {
-        "name": "刷樂植漱口-山雨400ml",
-        "price": "NT$209",
+        "name": "澳寶一分鐘焗油深透彈潤225ML",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 外泌體保濕面膜-4入盒裝",
-        "price": "NT$299",
+        "name": "SOFY蘇菲超熟睡草本抑菌棉柔28CM衛生棉",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲清新涼感極薄29cm小黃瓜溫和微涼7片",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲超熟睡褲草本抑菌L號 2片(包裝隨機出貨)",
+        "price": "NT$119",
         "source": "康是美"
     },
     {
@@ -605,93 +605,8 @@
         "source": "康是美"
     },
     {
-        "name": "興家安速160日防蚊網片",
-        "price": "NT$549",
-        "source": "康是美"
-    },
-    {
-        "name": "快潔適SDC抗菌洗手乳-山茶花香300ml",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "醫美卸妝-BIODERMA貝膚黛瑪 保濕水潤潔膚液500ml",
-        "price": "NT$850",
-        "source": "康是美"
-    },
-    {
-        "name": "未來美8分鐘極速補水面膜5入",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "MagicAmah妙管家濃縮洗衣精補充包-亮彩2000g",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "澳寶一分鐘焗油深透彈潤225ML",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "醫美化妝水-Avène雅漾24H玻尿酸保濕精華露（200ml）",
-        "price": "NT$1,280",
-        "source": "康是美"
-    },
-    {
-        "name": "Kotex靠得住 草本抑菌 19cm 13片(包裝隨機出貨)",
-        "price": "NT$78",
-        "source": "康是美"
-    },
-    {
-        "name": "護墊推薦 康乃馨透氣超薄護墊無香15cm40片(包裝隨機出貨)",
-        "price": "NT$55",
-        "source": "康是美"
-    },
-    {
-        "name": "盛香珍法式鹽之花榛果可可法國酥",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "益生菌推薦-Simply新普利 日本專利益生菌（30包）",
-        "price": "NT$990",
-        "source": "康是美"
-    },
-    {
-        "name": "未來美8分鐘麗珠肽淨白面膜（3片/盒）",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "heme 清透水感防曬凝膠 SPF50★★★★ 40ml",
-        "price": "NT$250",
-        "source": "康是美"
-    },
-    {
-        "name": "日本獅王固齒佳酵素極致亮白牙膏晶亮薄荷 130g",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "Dr.藝群 植物神經醯胺精華露30ml",
-        "price": "NT$499",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思 超爆水儷珠光水感面膜5入",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "Vaseline凡士林 十效彈潤煥亮潤膚露 320ML",
-        "price": "NT$389",
-        "source": "康是美"
-    },
-    {
-        "name": "康乃馨純淨棉衛生棉量多型（25.5cm）16片(包裝隨機出貨)",
-        "price": "NT$99",
+        "name": "刷樂植漱口-山雨400ml",
+        "price": "NT$209",
         "source": "康是美"
     },
     {
@@ -700,13 +615,158 @@
         "source": "康是美"
     },
     {
+        "name": "未來美8分鐘極速補水面膜5入",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
+        "name": "Kotex靠得住 草本抑菌 19cm 13片(包裝隨機出貨)",
+        "price": "NT$78",
+        "source": "康是美"
+    },
+    {
+        "name": "MagicAmah妙管家濃縮洗衣精補充包-亮彩2000g",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
         "name": "SOFY蘇菲極淨肌天然100%有機棉23cm9片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "護墊推薦 康乃馨透氣超薄護墊無香15cm40片(包裝隨機出貨)",
+        "price": "NT$55",
+        "source": "康是美"
+    },
+    {
+        "name": "未來美8分鐘麗珠肽淨白面膜（3片/盒）",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍法式鹽之花榛果可可法國酥",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
+        "name": "快潔適SDC抗菌洗手乳-山茶花香300ml",
         "price": "NT$99",
         "source": "康是美"
     },
     {
         "name": "Hada-Labo肌研 暗沉對策洗顏乳100g",
         "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "醫美卸妝-BIODERMA貝膚黛瑪 保濕水潤潔膚液500ml",
+        "price": "NT$850",
+        "source": "康是美"
+    },
+    {
+        "name": "益生菌推薦-Simply新普利 日本專利益生菌（30包）",
+        "price": "NT$990",
+        "source": "康是美"
+    },
+    {
+        "name": "heme 清透水感防曬凝膠 SPF50★★★★ 40ml",
+        "price": "NT$250",
+        "source": "康是美"
+    },
+    {
+        "name": "康乃馨純淨棉衛生棉量多型（25.5cm）16片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "醫美化妝水-Avène雅漾24H玻尿酸保濕精華露（200ml）",
+        "price": "NT$1,280",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 外泌體保濕面膜-4入盒裝",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "康乃馨瞬吸透氣護墊加長型（微香）17公分24片",
+        "price": "NT$59",
+        "source": "康是美"
+    },
+    {
+        "name": "日本獅王固齒佳酵素極致亮白牙膏晶亮薄荷 130g",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "NIVEA妮維雅 亮白極致嫩膚乳液125ml",
+        "price": "NT$159",
+        "source": "康是美"
+    },
+    {
+        "name": "蜂王 珍珠檀香皂3入組",
+        "price": "NT$129",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思玻尿酸溫和保濕潔顏慕絲160ML",
+        "price": "NT$650",
+        "source": "康是美"
+    },
+    {
+        "name": "潔美淨層脂質水光保濕防曬乳40ml(4/11依序出貨)",
+        "price": "NT$800",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思印度積雪草注水修護面膜8片",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "AHC 濟州島毛孔淨化火山泥膜 100ml",
+        "price": "NT$780",
+        "source": "康是美"
+    },
+    {
+        "name": "AHC 超微導B5能量修護賦活霜 50ml",
+        "price": "NT$1,280",
+        "source": "康是美"
+    },
+    {
+        "name": "Amma Garden艾瑪花園紫草舒爽抗屑洗髮精300ml",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲繽紛香氣沐浴清新護墊14cm 80片(包裝隨機出貨)",
+        "price": "NT$159",
+        "source": "康是美"
+    },
+    {
+        "name": "王麵河粉 （野菜風味） 61g",
+        "price": "NT$59",
+        "source": "康是美"
+    },
+    {
+        "name": "Vaseline凡士林 十效彈潤煥亮潤膚露 320ML",
+        "price": "NT$389",
+        "source": "康是美"
+    },
+    {
+        "name": "一匙靈極效洗衣霸 室內晾衣 7入",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "MediFlower 濟州島柑橘護手霜（75ML）",
+        "price": "NT$178",
+        "source": "康是美"
+    },
+    {
+        "name": "Avène雅漾醒膚緊實彈力霜50ml",
+        "price": "NT$1,480",
         "source": "康是美"
     },
     {
@@ -720,52 +780,12 @@
         "source": "康是美"
     },
     {
-        "name": "IPSA 茵芙莎 美膚機能液N 200ml",
-        "price": "NT$1,450",
+        "name": "Neogence霓淨思 超爆水儷珠光水感面膜5入",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
-        "name": "蜂王 珍珠檀香皂3入組",
-        "price": "NT$129",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲天然積雪草系列超薄潔翼日用23cm 12片",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC 安瓶精華天絲纖維面膜[玻尿酸保濕]5片/盒",
-        "price": "NT$600",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲繽紛香氣沐浴清新護墊14cm 80片(包裝隨機出貨)",
-        "price": "NT$159",
-        "source": "康是美"
-    },
-    {
-        "name": "一匙靈極效洗衣霸 室內晾衣 7入",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "快潔適SDC抗菌洗手乳-清新柑橘300ml",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "Avène雅漾醒膚緊實彈力霜50ml",
-        "price": "NT$1,480",
-        "source": "康是美"
-    },
-    {
-        "name": "我的心機去皮嫩膚黑足膜1入",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "刷樂極薄護齦牙刷1支入",
+        "name": "蘇菲清新涼感極薄25cm 薄荷清涼8片",
         "price": "NT$99",
         "source": "康是美"
     },
@@ -775,18 +795,23 @@
         "source": "康是美"
     },
     {
+        "name": "刷樂寬薄舒齦牙刷單支入-混色出貨",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲天然積雪草系列超薄潔翼日用23cm 12片",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
         "name": "靠得住茶樹沁涼護墊經期前後17.5cm18片",
         "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 無針水光維他命A緊緻面膜5片",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC 濟州島毛孔淨化火山泥膜 100ml",
-        "price": "NT$780",
+        "name": "快潔適SDC抗菌洗手乳-清新柑橘300ml",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -795,18 +820,23 @@
         "source": "康是美"
     },
     {
-        "name": "Amma Garden艾瑪花園紫草舒爽抗屑洗髮精300ml",
+        "name": "乒乓原味蘇打餅125g",
+        "price": "NT$39",
+        "source": "康是美"
+    },
+    {
+        "name": "韓國isLeaf蠶絲蛋白香氛護髮素-茉氣150ml",
         "price": "NT$199",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思印度積雪草注水修護面膜8片",
-        "price": "NT$299",
+        "name": "蜂王 瑩潤淨白亮膚米皂100g",
+        "price": "NT$45",
         "source": "康是美"
     },
     {
-        "name": "刷樂植漱口-森淬400mL",
-        "price": "NT$209",
+        "name": "乖乖金順純水濕巾28抽（加蓋）",
+        "price": "NT$50",
         "source": "康是美"
     },
     {
@@ -825,88 +855,13 @@
         "source": "康是美"
     },
     {
-        "name": "Blackmores澳佳寶 維生素C1000強化配方",
-        "price": "NT$859",
+        "name": "Hada-Labo肌研 光透潤極致水潤面膜(盒裝6入)",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
-        "name": "NIVEA妮維雅 亮白極致嫩膚乳液125ml",
-        "price": "NT$159",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 雙效蘆薈潤膚皂100g",
-        "price": "NT$45",
-        "source": "康是美"
-    },
-    {
-        "name": "王麵河粉 （野菜風味） 61g",
-        "price": "NT$59",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲清新涼感極薄25cm 薄荷清涼8片",
+        "name": "刷樂極薄護齦牙刷1支入",
         "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "康乃馨貼馨褲 褲型衛生棉L-XL號2片",
-        "price": "NT$89",
-        "source": "康是美"
-    },
-    {
-        "name": "刷樂寬薄舒齦牙刷單支入-混色出貨",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思玻尿酸溫和保濕潔顏慕絲160ML",
-        "price": "NT$650",
-        "source": "康是美"
-    },
-    {
-        "name": "潔美淨層脂質水光保濕防曬乳40ml(4/11依序出貨)",
-        "price": "NT$800",
-        "source": "康是美"
-    },
-    {
-        "name": "DR.WU達爾膚全日清爽身體防曬乳80ML",
-        "price": "NT$900",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC 超微導B5能量修護賦活霜 50ml",
-        "price": "NT$1,280",
-        "source": "康是美"
-    },
-    {
-        "name": "PEZRI派翠B5舒緩胺基酸潔顏霜100g",
-        "price": "NT$590",
-        "source": "康是美"
-    },
-    {
-        "name": "LOREAL PARIS巴黎萊雅 三合一卸妝潔顏水玻尿酸高效溫和型400ml",
-        "price": "NT$499",
-        "source": "康是美"
-    },
-    {
-        "name": "乒乓原味蘇打餅125g",
-        "price": "NT$39",
-        "source": "康是美"
-    },
-    {
-        "name": "MediFlower 濟州島柑橘護手霜（75ML）",
-        "price": "NT$178",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 黑砂糖香皂80gx4入",
-        "price": "NT$109",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 瑩潤淨白亮膚米皂100g",
-        "price": "NT$45",
         "source": "康是美"
     },
     {
@@ -915,13 +870,23 @@
         "source": "康是美"
     },
     {
-        "name": "乖乖金順純水濕巾28抽（加蓋）",
-        "price": "NT$50",
+        "name": "DR.WU達爾膚全日清爽身體防曬乳80ML",
+        "price": "NT$900",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 跑趴超貼妝極效涵水面膜4入盒裝",
-        "price": "NT$299",
+        "name": "SOFY蘇菲超熟睡褲草本抑菌XL 2片(包裝隨機出貨)",
+        "price": "NT$119",
+        "source": "康是美"
+    },
+    {
+        "name": "PEZRI派翠B5舒緩胺基酸潔顏霜100g",
+        "price": "NT$590",
+        "source": "康是美"
+    },
+    {
+        "name": "蜂王 黑砂糖香皂80gx4入",
+        "price": "NT$109",
         "source": "康是美"
     },
     {
@@ -930,13 +895,13 @@
         "source": "康是美"
     },
     {
-        "name": "康乃馨瞬吸透氣護墊加長型（微香）17公分24片",
-        "price": "NT$59",
+        "name": "刷樂植漱口-森淬400mL",
+        "price": "NT$209",
         "source": "康是美"
     },
     {
-        "name": "SOFY蘇菲超熟睡褲草本抑菌L號 2片(包裝隨機出貨)",
-        "price": "NT$119",
+        "name": "LOREAL PARIS巴黎萊雅 三合一卸妝潔顏水玻尿酸高效溫和型400ml",
+        "price": "NT$499",
         "source": "康是美"
     },
     {
@@ -950,28 +915,78 @@
         "source": "康是美"
     },
     {
-        "name": "Hada-Labo肌研 光透潤極致水潤面膜(盒裝6入)",
+        "name": "Hada-Labo肌研 光透潤深層美白面膜(盒裝6入)",
         "price": "NT$399",
         "source": "康是美"
     },
     {
-        "name": "蜂王 北海道薰衣草柔膚皂80g×4入",
-        "price": "NT$131",
+        "name": "我的心機去皮嫩膚黑足膜1入",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 外泌體緊緻面膜-4入盒裝",
-        "price": "NT$299",
+        "name": "康乃馨透氣超薄護墊加長型(微香)17cm26片 (包裝隨機出貨)",
+        "price": "NT$59",
         "source": "康是美"
     },
     {
-        "name": "DR.WU達爾膚水光雙膠原胜肽SHOT（水光雙膠原飲）X 7PCS/盒-朴信惠代言",
-        "price": "NT$1,380",
+        "name": "Blackmores澳佳寶 維生素C1000強化配方",
+        "price": "NT$859",
+        "source": "康是美"
+    },
+    {
+        "name": "Dr.藝群 植物神經醯胺精華露30ml",
+        "price": "NT$499",
+        "source": "康是美"
+    },
+    {
+        "name": "IPSA 茵芙莎 美膚機能液N 200ml",
+        "price": "NT$1,450",
+        "source": "康是美"
+    },
+    {
+        "name": "康乃馨貼馨褲 褲型衛生棉L-XL號2片",
+        "price": "NT$89",
         "source": "康是美"
     },
     {
         "name": "Neogence極透光亮白淡斑精華30ML",
         "price": "NT$1,350",
+        "source": "康是美"
+    },
+    {
+        "name": "OP柑橘抗菌菜瓜布.4入",
+        "price": "NT$119",
+        "source": "康是美"
+    },
+    {
+        "name": "Hada-Labo肌研 光透潤瞬效補水面膜(盒裝6入)",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
+        "name": "刷樂備長炭亮白牙刷",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍KING無調味綜合堅果73g(4/11依序出貨)",
+        "price": "NT$139",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲清新涼感微涼洋甘菊23cm 9片裝",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 無針水光維他命A緊緻面膜5片",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "NIVEA妮維雅 淨白透亮奇肌雙管精萃凝乳",
+        "price": "NT$679",
         "source": "康是美"
     },
     {
@@ -985,58 +1000,23 @@
         "source": "康是美"
     },
     {
-        "name": "OP柑橘抗菌菜瓜布.4入",
-        "price": "NT$119",
-        "source": "康是美"
-    },
-    {
-        "name": "韓國isLeaf蠶絲蛋白香氛護髮素-茉氣150ml",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "Hada-Labo肌研 光透潤深層美白面膜(盒裝6入)",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "Hada-Labo肌研 光透潤瞬效補水面膜(盒裝6入)",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "我的心機馬油滋養修護足膜1雙入",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "寵愛之名PDRN外泌體環肽再生修護精華30ML",
-        "price": "NT$1,800",
-        "source": "康是美"
-    },
-    {
-        "name": "盛香珍KING無調味綜合堅果73g(4/11依序出貨)",
-        "price": "NT$139",
-        "source": "康是美"
-    },
-    {
-        "name": "DermaAngel護妍天使 痘痘隱形貼水楊酸添加-巧型貼曲線款（6入/盒）",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "SOFY蘇菲超熟睡褲草本抑菌XL 2片(包裝隨機出貨)",
-        "price": "NT$119",
-        "source": "康是美"
-    },
-    {
         "name": "AJIOU日本味王 金盞花葉黃素膠囊（B群特別版）30粒/盒",
         "price": "NT$1,080",
         "source": "康是美"
     },
     {
-        "name": "蜂王 蜂蜜檸檬草滋養皂80gx4入",
-        "price": "NT$109",
+        "name": "AHC 安瓶精華天絲纖維面膜[玻尿酸保濕]5片/盒",
+        "price": "NT$600",
+        "source": "康是美"
+    },
+    {
+        "name": "蜂王 北海道薰衣草柔膚皂80g×4入",
+        "price": "NT$131",
+        "source": "康是美"
+    },
+    {
+        "name": "Dr.藝群 Q10胺基酸洗面乳150ml",
+        "price": "NT$379",
         "source": "康是美"
     },
     {
@@ -1045,13 +1025,18 @@
         "source": "康是美"
     },
     {
-        "name": "TheraBreath凱斯博士漱口水-冰涼薄荷473ml",
-        "price": "NT$690",
+        "name": "蜂王 雙效蘆薈潤膚皂100g",
+        "price": "NT$45",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 無針水光維他命C美白面膜5片",
+        "name": "愛戀膜法豐台灣蘆薈絲瓜面膜5入",
         "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "乖乖發財巾純水濕巾28抽（加蓋）",
+        "price": "NT$50",
         "source": "康是美"
     },
     {
@@ -1060,18 +1045,13 @@
         "source": "康是美"
     },
     {
+        "name": "Solone細睫出眾纖長睫毛膏01激豔黑",
+        "price": "NT$380",
+        "source": "康是美"
+    },
+    {
         "name": "蜂王 燕麥呵護舒膚皂80gx3入盒",
         "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "Hada-Labo肌研 皮脂對策洗顏乳100g",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "BIODERMA貝膚黛瑪 平衡控油潔膚液500ml",
-        "price": "NT$850",
         "source": "康是美"
     },
     {
@@ -1080,8 +1060,13 @@
         "source": "康是美"
     },
     {
-        "name": "愛康透芯涼感棉-夜用型28cm7片",
-        "price": "NT$99",
+        "name": "寵愛之名PDRN外泌體環肽再生修護精華30ML",
+        "price": "NT$1,800",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 外泌體緊緻面膜-4入盒裝",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -1090,103 +1075,23 @@
         "source": "康是美"
     },
     {
-        "name": "森田藥粧超A醇撫紋抗皺眼膜10片（5對）入",
-        "price": "NT$299",
+        "name": "Neogence霓淨思極效積雪草B5舒敏修護精華30ML",
+        "price": "NT$1,350",
         "source": "康是美"
     },
     {
-        "name": "NIVEA妮維雅 淨白透亮奇肌雙管精萃凝乳",
-        "price": "NT$679",
+        "name": "Mdmmd.新涼感抑菌護墊（超涼感）【蔓越莓】",
+        "price": "NT$128",
         "source": "康是美"
     },
     {
-        "name": "專科全效海洋友善防曬乳",
-        "price": "NT$360",
+        "name": "DermaAngel護妍天使 痘痘隱形貼水楊酸添加-巧型貼曲線款（6入/盒）",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
         "name": "Amma Garden艾瑪花園利尻昆布黑髮亮澤洗髮精300ML",
         "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "Kotex靠得住 茶樹舒涼護墊 14.5CM 26片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "Dr.藝群 玻尿酸精華液50ml",
-        "price": "NT$499",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲繽紛香氣甜心玫瑰護墊14cm 80片(包裝隨機出貨)",
-        "price": "NT$159",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思 再生奇蹟前導精露150ML（外泌體/PDRN）",
-        "price": "NT$850",
-        "source": "康是美"
-    },
-    {
-        "name": "DR.WU達爾膚亮妍雙膠原胜肽SHOT（亮妍雙膠原飲）X 7PCS/盒-朴信惠代言",
-        "price": "NT$1,380",
-        "source": "康是美"
-    },
-    {
-        "name": "DR.WU達爾膚晚安雙膠原胜肽SHOT（晚安雙膠原飲）X 7PCS/盒-朴信惠代言",
-        "price": "NT$1,380",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思玻尿酸保濕水平衡噴霧水300ML",
-        "price": "NT$600",
-        "source": "康是美"
-    },
-    {
-        "name": "Solone細睫出眾纖長睫毛膏01激豔黑",
-        "price": "NT$380",
-        "source": "康是美"
-    },
-    {
-        "name": "ILLIYOON一理潤MD舒緩乾癢護理乳膏60ml",
-        "price": "NT$450",
-        "source": "康是美"
-    },
-    {
-        "name": "AHC 超水感淨亮涼感防曬精華40ml",
-        "price": "NT$900",
-        "source": "康是美"
-    },
-    {
-        "name": "靠得住完美封漏抑菌好眠褲L號2片 （新舊包裝隨機出貨）",
-        "price": "NT$118",
-        "source": "康是美"
-    },
-    {
-        "name": "康乃馨透氣超薄護墊加長型(微香)17cm26片 (包裝隨機出貨)",
-        "price": "NT$59",
-        "source": "康是美"
-    },
-    {
-        "name": "kotex靠得住 暖心香氛護墊梔子花14.5cm 25片2入(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 澳大利亞蘆薈潤澤皂80g×4入",
-        "price": "NT$131",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 普羅旺斯玫瑰香氛皂80g×4入",
-        "price": "NT$131",
-        "source": "康是美"
-    },
-    {
-        "name": "Avène雅漾超能輕感防曬液（無香）SPF50＋",
-        "price": "NT$1,280",
         "source": "康是美"
     },
     {
@@ -1200,8 +1105,88 @@
         "source": "康是美"
     },
     {
-        "name": "熊寶貝天然溫和護衣芳香豆-藍風鈴X白麝香補充包 300ML（新舊包裝隨機出貨）",
-        "price": "NT$205",
+        "name": "靠得住完美封漏抑菌好眠褲L號2片 （新舊包裝隨機出貨）",
+        "price": "NT$118",
+        "source": "康是美"
+    },
+    {
+        "name": "Hada-Labo肌研 皮脂對策洗顏乳100g",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "蜂王 蜂蜜檸檬草滋養皂80gx4入",
+        "price": "NT$109",
+        "source": "康是美"
+    },
+    {
+        "name": "我的心機馬油滋養修護足膜1雙入",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "愛戀膜法豐台灣山玫瑰面膜5入",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "TheraBreath凱斯博士漱口水-冰涼薄荷473ml",
+        "price": "NT$690",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思玻尿酸保濕水平衡噴霧水300ML",
+        "price": "NT$600",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲超日安褲 內褲型衛生棉XL號2片",
+        "price": "NT$119",
+        "source": "康是美"
+    },
+    {
+        "name": "ILLIYOON一理潤MD舒緩乾癢護理乳膏60ml",
+        "price": "NT$450",
+        "source": "康是美"
+    },
+    {
+        "name": "NIVEA妮維雅 B5精華卸妝水-水潤型400ml",
+        "price": "NT$479",
+        "source": "康是美"
+    },
+    {
+        "name": "BIODERMA貝膚黛瑪 平衡控油潔膚液500ml",
+        "price": "NT$850",
+        "source": "康是美"
+    },
+    {
+        "name": "韓國isLeaf蠶絲蛋白香氛護髮素-紫愛150ml",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "kotex靠得住 暖心香氛護墊梔子花14.5cm 25片2入(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "蜂王 澳大利亞蘆薈潤澤皂80g×4入",
+        "price": "NT$131",
+        "source": "康是美"
+    },
+    {
+        "name": "王麵河粉 （雞絲風味） 61g",
+        "price": "NT$59",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 跑趴超貼妝極效涵水面膜4入盒裝",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "妙管家液體香水芳香劑-浪漫玫瑰400ml",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -1220,8 +1205,8 @@
         "source": "康是美"
     },
     {
-        "name": "韓國isLeaf蠶絲蛋白香氛護髮素-紫愛150ml",
-        "price": "NT$199",
+        "name": "Kotex靠得住 茶樹舒涼護墊 14.5CM 26片(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -1230,23 +1215,38 @@
         "source": "康是美"
     },
     {
-        "name": "自白肌 微分子玻尿酸保濕精華水250ml",
-        "price": "NT$380",
+        "name": "蜂王 無患子淨白皂80gx4入",
+        "price": "NT$109",
         "source": "康是美"
     },
     {
-        "name": "SEXYLOOK 酵素去角質凝露120g",
-        "price": "NT$198",
+        "name": "蘇菲繽紛香氣甜心玫瑰護墊14cm 80片(包裝隨機出貨)",
+        "price": "NT$159",
         "source": "康是美"
     },
     {
-        "name": "愛戀膜法豐台灣蘆薈絲瓜面膜5入",
+        "name": "我的美麗日記百合淨白花萃面膜7入",
         "price": "NT$299",
         "source": "康是美"
     },
     {
         "name": "Ora2 淨白無瑕牙刷-軟性",
         "price": "NT$109",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 再生奇蹟前導精露150ML（外泌體/PDRN）",
+        "price": "NT$850",
+        "source": "康是美"
+    },
+    {
+        "name": "DR.WU達爾膚亮妍雙膠原胜肽SHOT（亮妍雙膠原飲）X 7PCS/盒-朴信惠代言",
+        "price": "NT$1,380",
+        "source": "康是美"
+    },
+    {
+        "name": "DR.WU達爾膚晚安雙膠原胜肽SHOT（晚安雙膠原飲）X 7PCS/盒-朴信惠代言",
+        "price": "NT$1,380",
         "source": "康是美"
     },
     {
@@ -1260,43 +1260,23 @@
         "source": "康是美"
     },
     {
-        "name": "蘇菲清新涼感微涼洋甘菊23cm 9片裝",
+        "name": "一匙靈極效洗衣霸 防螨成分Plus7入",
         "price": "NT$99",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思六重神經醯胺胜肽護唇精華12ML",
-        "price": "NT$420",
+        "name": "DR.WU達爾膚全能保濕清爽防曬乳35ML",
+        "price": "NT$900",
         "source": "康是美"
     },
     {
-        "name": "乖乖發財巾純水濕巾28抽（加蓋）",
-        "price": "NT$50",
-        "source": "康是美"
-    },
-    {
-        "name": "星太郎點心麵-大阪章魚燒風味33g",
-        "price": "NT$32",
+        "name": "Hada-Labo肌研 光透潤玻尿酸纖維保濕面膜（盒裝6入）",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
         "name": "Dr.May美博士 專業修護面膜（4片/盒）",
         "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "Medi Flower 廣藿麝香護手霜 （30g）",
-        "price": "NT$118",
-        "source": "康是美"
-    },
-    {
-        "name": "Medi Flower 鼠尾草木質香護手霜 （30g）",
-        "price": "NT$118",
-        "source": "康是美"
-    },
-    {
-        "name": "NIVEA妮維雅 B5精華卸妝水-水潤型400ml",
-        "price": "NT$479",
         "source": "康是美"
     },
     {
@@ -1315,13 +1295,13 @@
         "source": "康是美"
     },
     {
-        "name": "蜂王 珍珠檀香皂100g",
-        "price": "NT$45",
+        "name": "蜂王 普羅旺斯玫瑰香氛皂80g×4入",
+        "price": "NT$131",
         "source": "康是美"
     },
     {
-        "name": "牙膏推薦 高露潔抗敏感潔淨亮白牙膏120g",
-        "price": "NT$169",
+        "name": "蜂王 珍珠檀香皂100g",
+        "price": "NT$45",
         "source": "康是美"
     },
     {
@@ -1330,13 +1310,8 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 外泌體亮白面膜-4入盒裝",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "王麵河粉 （雞絲風味） 61g",
-        "price": "NT$59",
+        "name": "博寶兒兒童牙刷-超人力霸王（傑洛）",
+        "price": "NT$109",
         "source": "康是美"
     },
     {
@@ -1345,8 +1320,13 @@
         "source": "康是美"
     },
     {
-        "name": "妙管家液體香水芳香劑-浪漫玫瑰400ml",
-        "price": "NT$99",
+        "name": "Neogence霓淨思積雪草B5舒敏修護化妝水150ML",
+        "price": "NT$800",
+        "source": "康是美"
+    },
+    {
+        "name": "MDMMD.新涼感抑菌衛生棉超涼感量多型【蔓越莓】",
+        "price": "NT$128",
         "source": "康是美"
     },
     {
@@ -1355,8 +1335,18 @@
         "source": "康是美"
     },
     {
-        "name": "AHC 積雪草純物理全護防曬乳50ml",
-        "price": "NT$900",
+        "name": "專科全效海洋友善防曬乳",
+        "price": "NT$360",
+        "source": "康是美"
+    },
+    {
+        "name": "Medi Flower 廣藿麝香護手霜 （30g）",
+        "price": "NT$118",
+        "source": "康是美"
+    },
+    {
+        "name": "Medi Flower 鼠尾草木質香護手霜 （30g）",
+        "price": "NT$118",
         "source": "康是美"
     },
     {
@@ -1375,13 +1365,8 @@
         "source": "康是美"
     },
     {
-        "name": "Dr.藝群 Q10胺基酸洗面乳150ml",
-        "price": "NT$379",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 無患子淨白皂80gx4入",
-        "price": "NT$109",
+        "name": "SEXYLOOK 酵素去角質凝露120g",
+        "price": "NT$198",
         "source": "康是美"
     },
     {
@@ -1390,13 +1375,33 @@
         "source": "康是美"
     },
     {
-        "name": "愛戀膜法豐台灣山玫瑰面膜5入",
+        "name": "Colgate高露潔 抗敏超微泡全方位防護120g",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "Ora2 淨白無瑕牙刷-中性",
+        "price": "NT$109",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 超爆水淨膚光亮白面膜5片",
         "price": "NT$299",
         "source": "康是美"
     },
     {
-        "name": "Colgate高露潔 抗敏超微泡全方位防護120g",
-        "price": "NT$199",
+        "name": "Neogence霓淨思 外泌體亮白面膜-4入盒裝",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "台灣杏仁桃酥180G",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "愛康透芯涼感棉-夜用型28cm7片",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -1405,13 +1410,13 @@
         "source": "康是美"
     },
     {
-        "name": "一匙靈極效洗衣霸 防螨成分Plus7入",
-        "price": "NT$99",
+        "name": "Neogence霓淨思六重神經醯胺胜肽護唇精華12ML",
+        "price": "NT$420",
         "source": "康是美"
     },
     {
-        "name": "蘇菲超日安褲 內褲型衛生棉XL號2片",
-        "price": "NT$119",
+        "name": "大研生醫德國頂級魚油軟膠囊60粒/盒",
+        "price": "NT$1,980",
         "source": "康是美"
     },
     {
@@ -1420,17 +1425,12 @@
         "source": "康是美"
     },
     {
-        "name": "Hada-Labo肌研 光透潤玻尿酸纖維保濕面膜（盒裝6入）",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
         "name": "Dr.May美博士 專業金牌面膜（3片/盒）",
         "price": "NT$299",
         "source": "康是美"
     },
     {
-        "name": "Mdmmd.新涼感抑菌護墊（超涼感）【蔓越莓】",
+        "name": "MDMMD.新涼感抑菌衛生棉超涼感一般型【蔓越莓】",
         "price": "NT$128",
         "source": "康是美"
     },
@@ -1445,8 +1445,33 @@
         "source": "康是美"
     },
     {
+        "name": "Avène雅漾超能輕感防曬液（無香）SPF50＋",
+        "price": "NT$1,280",
+        "source": "康是美"
+    },
+    {
         "name": "高露潔全效抗牙菌斑清恬薄荷牙膏95g",
         "price": "NT$298",
+        "source": "康是美"
+    },
+    {
+        "name": "AHC 超水感淨亮涼感防曬精華40ml",
+        "price": "NT$900",
+        "source": "康是美"
+    },
+    {
+        "name": "AHC 積雪草純物理全護防曬乳50ml",
+        "price": "NT$900",
+        "source": "康是美"
+    },
+    {
+        "name": "Medi Flower 海鹽木質香護手霜 （30g）",
+        "price": "NT$118",
+        "source": "康是美"
+    },
+    {
+        "name": "Johnson`s嬌生 美體主張煥采透亮乳液500ml",
+        "price": "NT$339",
         "source": "康是美"
     },
     {
@@ -1460,8 +1485,23 @@
         "source": "康是美"
     },
     {
-        "name": "Ora2 淨白無瑕牙刷-中性",
-        "price": "NT$109",
+        "name": "李時珍美妍四物鐵精華飲8入/盒",
+        "price": "NT$388",
+        "source": "康是美"
+    },
+    {
+        "name": "史邁爾衛生套3IN1型12入",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "牙膏推薦 高露潔抗敏感潔淨亮白牙膏120g",
+        "price": "NT$169",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 超爆水鳳凰聚能緊緻面膜5片",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -1480,11 +1520,6 @@
         "source": "康是美"
     },
     {
-        "name": "博寶兒兒童牙刷-超人力霸王（傑洛）",
-        "price": "NT$109",
-        "source": "康是美"
-    },
-    {
         "name": "刷樂寬薄深潔牙刷單支入-混色出貨",
         "price": "NT$99",
         "source": "康是美"
@@ -1495,18 +1530,28 @@
         "source": "康是美"
     },
     {
+        "name": "麗仕小氣泡爽膚沐浴露微醺白桃香700G",
+        "price": "NT$309",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence 霓淨思高效保濕零觸感面膜-5入盒裝",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
         "name": "belif超能騎士胜肽緊緻清潔面膜150ml(4/11依序出貨)",
         "price": "NT$800",
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思極效積雪草B5舒敏修護精華30ML(4/10依序出貨)",
-        "price": "NT$1,350",
+        "name": "DR.WU達爾膚玻尿酸保濕精華霜50ml",
+        "price": "NT$1,800",
         "source": "康是美"
     },
     {
-        "name": "船井funcare 6X活力瑪卡王EX40顆",
-        "price": "NT$1,580",
+        "name": "Neogence霓淨思 無針水光維他命C美白面膜5片",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -1520,8 +1565,28 @@
         "source": "康是美"
     },
     {
+        "name": "熊寶貝天然溫和護衣芳香豆-藍風鈴X白麝香補充包 300ML（新舊包裝隨機出貨）",
+        "price": "NT$205",
+        "source": "康是美"
+    },
+    {
+        "name": "NIVEA妮維雅 極淨透亮眼部卸妝液125ML",
+        "price": "NT$359",
+        "source": "康是美"
+    },
+    {
         "name": "Neogence霓淨思 3%神經醯胺PLUS精華30ml",
         "price": "NT$1,350",
+        "source": "康是美"
+    },
+    {
+        "name": "MediFlower 濟州島櫻花護手霜（75ML）",
+        "price": "NT$178",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍Dr.Q葡萄蒟蒻190g",
+        "price": "NT$79",
         "source": "康是美"
     },
     {
@@ -1535,16 +1600,6 @@
         "source": "康是美"
     },
     {
-        "name": "SHILLS 舒兒絲馬油修護潤澤手足龜裂霜50ml",
-        "price": "NT$239",
-        "source": "康是美"
-    },
-    {
-        "name": "刷樂極薄深潔牙刷1支入",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
         "name": "我的心機玻尿酸保溼黑面膜8入",
         "price": "NT$299",
         "source": "康是美"
@@ -1555,18 +1610,18 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 超爆水淨膚光亮白面膜5片",
-        "price": "NT$299",
+        "name": "Neogence霓淨思 0.3%活膚保濕A醇精露150ML",
+        "price": "NT$800",
         "source": "康是美"
     },
     {
-        "name": "台灣杏仁桃酥180G",
+        "name": "DR.WU達爾膚水光雙膠原胜肽SHOT（水光雙膠原飲）X 7PCS/盒-朴信惠代言",
+        "price": "NT$1,380",
+        "source": "康是美"
+    },
+    {
+        "name": "蘇菲清新涼感超薄35cm小黃瓜溫和微涼6片",
         "price": "NT$99",
-        "source": "康是美"
-    },
-    {
-        "name": "麗仕小氣泡爽膚沐浴露微醺白桃香700G",
-        "price": "NT$309",
         "source": "康是美"
     },
     {
@@ -1575,28 +1630,8 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思積雪草B5舒敏修護化妝水150ML",
-        "price": "NT$800",
-        "source": "康是美"
-    },
-    {
-        "name": "點胭脂 繁花似錦壹壹零 暈染遮瑕兩用刷 1入",
-        "price": "NT$187",
-        "source": "康是美"
-    },
-    {
-        "name": "LUX麗仕 花漾調香系列恬淡藍風鈴香氛柔順洗髮精470G",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "Medi Flower 海鹽木質香護手霜 （30g）",
-        "price": "NT$118",
-        "source": "康是美"
-    },
-    {
-        "name": "Johnson`s嬌生 美體主張煥采透亮乳液500ml",
-        "price": "NT$339",
+        "name": "星太郎點心麵-大阪章魚燒風味33g",
+        "price": "NT$32",
         "source": "康是美"
     },
     {
@@ -1605,8 +1640,8 @@
         "source": "康是美"
     },
     {
-        "name": "SHILLS 舒兒絲乾淨舒爽整理毛髮乳霜50ml",
-        "price": "NT$350",
+        "name": "SwissVita薇佳 蜜花酸晶煥膚美白精萃30ml",
+        "price": "NT$1,080",
         "source": "康是美"
     },
     {
@@ -1615,13 +1650,23 @@
         "source": "康是美"
     },
     {
-        "name": "李時珍美妍四物鐵精華飲8入/盒",
-        "price": "NT$388",
+        "name": "Dr.藝群 玻尿酸精華液50ml",
+        "price": "NT$499",
         "source": "康是美"
     },
     {
-        "name": "刷樂備長炭亮白牙刷",
-        "price": "NT$99",
+        "name": "史邁爾衛生套-超薄型12入",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "SHILLS 舒兒絲馬油修護潤澤手足龜裂霜50ml",
+        "price": "NT$239",
+        "source": "康是美"
+    },
+    {
+        "name": "Simple清妍全能賦活卸妝水400ml",
+        "price": "NT$449",
         "source": "康是美"
     },
     {
@@ -1635,23 +1680,8 @@
         "source": "康是美"
     },
     {
-        "name": "我的美麗日記百合淨白花萃面膜7入",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
         "name": "Neogence霓淨思 超爆水青春緊緻面膜5片",
         "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思 超爆水鳳凰聚能緊緻面膜5片",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "蘇菲清新涼感超薄35cm小黃瓜溫和微涼6片",
-        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -1660,8 +1690,8 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence 霓淨思高效保濕零觸感面膜-5入盒裝",
-        "price": "NT$399",
+        "name": "Neogence霓淨思玻尿酸保濕水平衡化妝水150ML",
+        "price": "NT$800",
         "source": "康是美"
     },
     {
@@ -1675,8 +1705,13 @@
         "source": "康是美"
     },
     {
-        "name": "點胭脂 繁花似錦壹壹零 一字粉底刷 1入",
-        "price": "NT$264",
+        "name": "森田藥粧超A醇撫紋抗皺眼膜10片（5對）入",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "點胭脂 繁花似錦壹壹零 暈染遮瑕兩用刷 1入",
+        "price": "NT$187",
         "source": "康是美"
     },
     {
@@ -1685,13 +1720,23 @@
         "source": "康是美"
     },
     {
-        "name": "盛香珍酵母覺醒紫菜青蔥蘇打餅260g",
-        "price": "NT$139",
+        "name": "船井funcare 6X活力瑪卡王EX40顆",
+        "price": "NT$1,580",
+        "source": "康是美"
+    },
+    {
+        "name": "Mdmmd新涼感抑菌衛生棉（超涼感）夜用加長型【蔓越莓】",
+        "price": "NT$128",
         "source": "康是美"
     },
     {
         "name": "Neogence霓淨思積雪草 B5修護水潤身體乳500ML",
         "price": "NT$1,000",
+        "source": "康是美"
+    },
+    {
+        "name": "LUX麗仕 花漾調香系列恬淡藍風鈴香氛柔順洗髮精470G",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -1705,38 +1750,13 @@
         "source": "康是美"
     },
     {
-        "name": "森田藥粧炭深層潔淨洗顏乳120g",
-        "price": "NT$169",
+        "name": "自白肌 微分子玻尿酸保濕精華水250ml",
+        "price": "NT$380",
         "source": "康是美"
     },
     {
-        "name": "NIVEA妮維雅 極淨透亮眼部卸妝液125ML",
-        "price": "NT$359",
-        "source": "康是美"
-    },
-    {
-        "name": "MediFlower 濟州島櫻花護手霜（75ML）",
-        "price": "NT$178",
-        "source": "康是美"
-    },
-    {
-        "name": "Hada-Labo肌研 光透潤亮澤緊緻面膜(盒裝6入)",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "史邁爾衛生套3IN1型12入",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "Simple清妍全能賦活卸妝水400ml",
-        "price": "NT$449",
-        "source": "康是美"
-    },
-    {
-        "name": "LOREAL PARIS巴黎萊雅 卸妝潔顏水保濕型400ml",
-        "price": "NT$499",
+        "name": "刷樂極薄深潔牙刷1支入",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -1745,23 +1765,8 @@
         "source": "康是美"
     },
     {
-        "name": "衛生棉推薦 愛康透芯涼感棉-日用型24cm8片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
         "name": "愛戀膜法豐台灣酒粕酵母面膜5入",
         "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思 0.3%活膚保濕A醇精露150ML",
-        "price": "NT$800",
-        "source": "康是美"
-    },
-    {
-        "name": "AQUAMAX奧科美氏 積雪草保濕平衡面膜（7片/盒）",
-        "price": "NT$615",
         "source": "康是美"
     },
     {
@@ -1785,13 +1790,18 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 無針水光維他命B保濕面膜5片",
-        "price": "NT$299",
+        "name": "大研生醫視易適®葉黃素軟膠囊 30粒/盒",
+        "price": "NT$1,980",
         "source": "康是美"
     },
     {
-        "name": "大研生醫視易適®葉黃素軟膠囊 30粒/盒",
-        "price": "NT$1,980",
+        "name": "澳佳寶 兒童晶亮金盞花葉黃素 60錠",
+        "price": "NT$1,099",
+        "source": "康是美"
+    },
+    {
+        "name": "盛香珍酵母覺醒紫菜青蔥蘇打餅260g",
+        "price": "NT$139",
         "source": "康是美"
     },
     {
@@ -1800,13 +1810,23 @@
         "source": "康是美"
     },
     {
+        "name": "Johnson`s嬌生 美體主張24小時水感乳液500ml",
+        "price": "NT$339",
+        "source": "康是美"
+    },
+    {
         "name": "精華油-Neogence霓淨思 角鯊烷潤澤輕感精華油30ml",
         "price": "NT$1,500",
         "source": "康是美"
     },
     {
-        "name": "盛香珍Dr.Q葡萄蒟蒻190g",
-        "price": "NT$79",
+        "name": "SHILLS 舒兒絲乾淨舒爽整理毛髮乳霜50ml",
+        "price": "NT$350",
+        "source": "康是美"
+    },
+    {
+        "name": "Hada-Labo肌研 光透潤亮澤緊緻面膜(盒裝6入)",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -1825,8 +1845,13 @@
         "source": "康是美"
     },
     {
-        "name": "香蕉船曬後修護蘆薈清涼凝露230g(4/11依序出貨)",
-        "price": "NT$219",
+        "name": "LOREAL PARIS巴黎萊雅 卸妝潔顏水深層型400ml",
+        "price": "NT$499",
+        "source": "康是美"
+    },
+    {
+        "name": "森田藥粧天然絲瓜水150ml",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -1835,8 +1860,18 @@
         "source": "康是美"
     },
     {
+        "name": "衛生棉推薦 愛康透芯涼感棉-日用型24cm8片(包裝隨機出貨)",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
         "name": "護墊推薦 康乃馨透氣超薄護墊微香15cm40片(包裝隨機出貨)",
         "price": "NT$55",
+        "source": "康是美"
+    },
+    {
+        "name": "KEYWAY聯府 KiWi長型保鮮盒600ml（5入）",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -1870,6 +1905,11 @@
         "source": "康是美"
     },
     {
+        "name": "點胭脂 繁花似錦壹壹零 一字粉底刷 1入",
+        "price": "NT$264",
+        "source": "康是美"
+    },
+    {
         "name": "雪芙蘭薏仁淨白透亮面膜5入",
         "price": "NT$199",
         "source": "康是美"
@@ -1890,8 +1930,18 @@
         "source": "康是美"
     },
     {
-        "name": "FaceQueen 神奇去角質雙效煥膚足膜1入",
-        "price": "NT$220",
+        "name": "史邁爾衛生套-粗顆粒型12入",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "日本Pa護甲亮澤油base01",
+        "price": "NT$169",
+        "source": "康是美"
+    },
+    {
+        "name": "Medi Flower 濟州島洋甘菊護手霜（75ML）",
+        "price": "NT$178",
         "source": "康是美"
     },
     {
@@ -1905,28 +1955,33 @@
         "source": "康是美"
     },
     {
+        "name": "KAFEN卡氛還原酸蛋白系列深層護髮素250ml",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
+        "name": "AQUAMAX奧科美氏 積雪草保濕平衡面膜（7片/盒）",
+        "price": "NT$615",
+        "source": "康是美"
+    },
+    {
         "name": "我的心機PDRN&外泌體微晶抗老精華面膜（4入）",
         "price": "NT$299",
         "source": "康是美"
     },
     {
-        "name": "KEYWAY聯府 KiWi長型保鮮盒600ml（5入）(4/9依序出貨)",
+        "name": "快潔適柔護潔牙線-含蠟膨脹線50m",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "KEYWAY聯府 KiWi長型保鮮盒1000ml（4入）",
         "price": "NT$199",
         "source": "康是美"
     },
     {
-        "name": "KEYWAY聯府 KiWi方型保鮮盒150ml（10入）(4/11依序出貨)",
+        "name": "DermaAngel護妍天使 痘痘隱形貼水楊酸添加-巧型貼_大面積方形款（3入/盒）",
         "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "Neogence霓淨思玻尿酸保濕水平衡化妝水150ML",
-        "price": "NT$800",
-        "source": "康是美"
-    },
-    {
-        "name": "ACE斑斑水果條系列-多款可選",
-        "price": "NT$250",
         "source": "康是美"
     },
     {
@@ -1935,18 +1990,8 @@
         "source": "康是美"
     },
     {
-        "name": "DR.WU達爾膚玻尿酸保濕精華霜50ml",
-        "price": "NT$1,800",
-        "source": "康是美"
-    },
-    {
-        "name": "大研生醫德國頂級魚油軟膠囊60粒/盒",
-        "price": "NT$1,980",
-        "source": "康是美"
-    },
-    {
-        "name": "澳佳寶 兒童晶亮金盞花葉黃素 60錠",
-        "price": "NT$1,099",
+        "name": "AHC醫美科研雙波抗老多肽膠原精華40ml",
+        "price": "NT$1,900",
         "source": "康是美"
     },
     {
@@ -1955,18 +2000,8 @@
         "source": "康是美"
     },
     {
-        "name": "點胭脂 繁花似錦壹壹零 鼻影刷 1入",
-        "price": "NT$209",
-        "source": "康是美"
-    },
-    {
-        "name": "MDMMD.新涼感抑菌衛生棉超涼感量多型【蔓越莓】",
-        "price": "NT$128",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 膠原彈力活萃皂80gx3入盒",
-        "price": "NT$99",
+        "name": "YNM 彩虹蜂蜜溫感變色潤唇膏（3g）",
+        "price": "NT$398",
         "source": "康是美"
     },
     {
@@ -1975,8 +2010,13 @@
         "source": "康是美"
     },
     {
-        "name": "Neutrogena露得清極致呵護系列-溫和修護洗顏露200ml​",
-        "price": "NT$359",
+        "name": "DermaAngel護妍天使 毛孔淨化爽膚棉65片/130ml",
+        "price": "NT$580",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 超濃縮微生態修護安瓶面膜4片",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -1990,13 +2030,18 @@
         "source": "康是美"
     },
     {
-        "name": "Johnson`s嬌生 美體主張24小時水感乳液500ml",
-        "price": "NT$339",
+        "name": "森田藥粧玻尿酸保濕水潤洗顏乳120g",
+        "price": "NT$169",
         "source": "康是美"
     },
     {
-        "name": "森田藥粧玻尿酸保濕水潤洗顏乳120g",
+        "name": "森田藥粧炭深層潔淨洗顏乳120g",
         "price": "NT$169",
+        "source": "康是美"
+    },
+    {
+        "name": "SOFY蘇菲極淨肌天然100%有機棉潔翼26cm8片(包裝隨機出貨)",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -2015,11 +2060,6 @@
         "source": "康是美"
     },
     {
-        "name": "SwissVita薇佳 蜜花酸晶煥膚美白精萃30ml",
-        "price": "NT$1,080",
-        "source": "康是美"
-    },
-    {
         "name": "森田藥粧玻尿酸臉部去角質凝露130ml",
         "price": "NT$199",
         "source": "康是美"
@@ -2030,13 +2070,8 @@
         "source": "康是美"
     },
     {
-        "name": "史邁爾衛生套-超薄型12入",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "LOREAL PARIS巴黎萊雅 卸妝潔顏水深層型400ml",
-        "price": "NT$499",
+        "name": "香蕉船曬後修護蘆薈清涼凝露230g(4/11依序出貨)",
+        "price": "NT$219",
         "source": "康是美"
     },
     {
@@ -2050,12 +2085,22 @@
         "source": "康是美"
     },
     {
-        "name": "KEYWAY聯府 KiWi長型保鮮盒1000ml（4入）",
+        "name": "KEYWAY聯府 KiWi方型保鮮盒150ml（10入）(4/11依序出貨)",
         "price": "NT$199",
         "source": "康是美"
     },
     {
+        "name": "盛香珍Dr.Q水蜜桃蒟蒻190g",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
         "name": "BEAUTYOUNG 極緻煥白珍珠粉軟膜 28g",
+        "price": "NT$149",
+        "source": "康是美"
+    },
+    {
+        "name": "BEAUTYOUNG 高效緊緻膠原蛋白軟膜 28g",
         "price": "NT$149",
         "source": "康是美"
     },
@@ -2070,13 +2115,13 @@
         "source": "康是美"
     },
     {
-        "name": "AHC醫美科研雙波抗老多肽膠原精華40ml",
-        "price": "NT$1,900",
+        "name": "Neogence霓淨思 無針水光維他命B保濕面膜5片",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
-        "name": "點胭脂 繁花似錦壹壹零 眼彩刷 1入",
-        "price": "NT$187",
+        "name": "點胭脂 繁花似錦壹壹零 鼻影刷 1入",
+        "price": "NT$209",
         "source": "康是美"
     },
     {
@@ -2087,16 +2132,6 @@
     {
         "name": "Richvita利捷維有酵金盞花葉黃素凍18入",
         "price": "NT$890",
-        "source": "康是美"
-    },
-    {
-        "name": "NIVEA妮維雅金盞花胺基酸微米淨膚泡泡慕斯180ml",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "YNM 彩虹蜂蜜溫感變色潤唇膏（3g）",
-        "price": "NT$398",
         "source": "康是美"
     },
     {
@@ -2115,23 +2150,8 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 玻尿酸超導潤澤化妝水150ml",
-        "price": "NT$800",
-        "source": "康是美"
-    },
-    {
         "name": "Dr.May美博士 專業保濕面膜（4片/盒）",
         "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "DermaAngel護妍天使 毛孔淨化爽膚棉65片/130ml",
-        "price": "NT$580",
-        "source": "康是美"
-    },
-    {
-        "name": "NIVEA妮維雅 煥膚柔嫩奇肌雙管精萃凝乳",
-        "price": "NT$679",
         "source": "康是美"
     },
     {
@@ -2150,6 +2170,11 @@
         "source": "康是美"
     },
     {
+        "name": "MKUP金盞花粉刺毛孔淨化慕斯",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
         "name": "未來美EX8分鐘分子釘補水微分子精華面膜",
         "price": "NT$399",
         "source": "康是美"
@@ -2165,13 +2190,13 @@
         "source": "康是美"
     },
     {
-        "name": "日本Pa護甲亮澤油base01",
-        "price": "NT$169",
+        "name": "MediFlower 乳木果護手霜 （80g）",
+        "price": "NT$178",
         "source": "康是美"
     },
     {
-        "name": "Medi Flower 濟州島洋甘菊護手霜（75ML）",
-        "price": "NT$178",
+        "name": "FaceQueen 神奇去角質雙效煥膚足膜1入",
+        "price": "NT$220",
         "source": "康是美"
     },
     {
@@ -2190,7 +2215,7 @@
         "source": "康是美"
     },
     {
-        "name": "KAFEN卡氛還原酸蛋白系列深層護髮素250ml",
+        "name": "卡氛極致旅行組60ml*3",
         "price": "NT$199",
         "source": "康是美"
     },
@@ -2205,13 +2230,13 @@
         "source": "康是美"
     },
     {
-        "name": "寵愛之名黃金藍銅玻尿酸保濕精華30ML",
-        "price": "NT$1,600",
+        "name": "Sebamed施巴 5.5潔膚露200ml",
+        "price": "NT$380",
         "source": "康是美"
     },
     {
-        "name": "快潔適柔護潔牙線-含蠟膨脹線50m",
-        "price": "NT$99",
+        "name": "寵愛之名黃金藍銅玻尿酸保濕精華30ML",
+        "price": "NT$1,600",
         "source": "康是美"
     },
     {
@@ -2240,13 +2265,8 @@
         "source": "康是美"
     },
     {
-        "name": "盛香珍Dr.Q水蜜桃蒟蒻190g",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
-        "name": "DermaAngel護妍天使 痘痘隱形貼水楊酸添加-巧型貼_大面積方形款（3入/盒）",
-        "price": "NT$199",
+        "name": "Neogence霓淨思玻尿酸保濕水平衡潤澤霜50ML",
+        "price": "NT$950",
         "source": "康是美"
     },
     {
@@ -2255,13 +2275,18 @@
         "source": "康是美"
     },
     {
+        "name": "ACE斑斑水果條系列-多款可選",
+        "price": "NT$250",
+        "source": "康是美"
+    },
+    {
         "name": "大研生醫淨密樂蔓越莓甘露糖粉包24包/盒",
         "price": "NT$1,125",
         "source": "康是美"
     },
     {
-        "name": "塩野義明日葉青汁 3gx30包",
-        "price": "NT$990",
+        "name": "點胭脂 繁花似錦壹壹零 眼彩刷 1入",
+        "price": "NT$187",
         "source": "康是美"
     },
     {
@@ -2275,18 +2300,23 @@
         "source": "康是美"
     },
     {
-        "name": "【Probo博寶兒】醫療防護口罩-TAYO（15片/盒）（3~10歲適用）",
-        "price": "NT$249",
+        "name": "蜂王 膠原彈力活萃皂80gx3入盒",
+        "price": "NT$99",
+        "source": "康是美"
+    },
+    {
+        "name": "Neogence霓淨思 玻尿酸超導潤澤化妝水150ml",
+        "price": "NT$800",
+        "source": "康是美"
+    },
+    {
+        "name": "Neutrogena露得清極致呵護系列-溫和修護洗顏露200ml​",
+        "price": "NT$359",
         "source": "康是美"
     },
     {
         "name": "FaceQueen 維他命B3透亮淨白手膜1入",
         "price": "NT$129",
-        "source": "康是美"
-    },
-    {
-        "name": "DARLIE 好來全亮白極緻煥白牙貼14pc(包裝隨機出貨)",
-        "price": "NT$799",
         "source": "康是美"
     },
     {
@@ -2300,18 +2330,8 @@
         "source": "康是美"
     },
     {
-        "name": "SOFY蘇菲極淨肌天然100%有機棉潔翼26cm8片(包裝隨機出貨)",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
         "name": "DARLIE好來 極致護齦蜂膠牙膏120g",
         "price": "NT$240",
-        "source": "康是美"
-    },
-    {
-        "name": "Johnson`s嬌生嬰兒潤膚油300ml",
-        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -2320,13 +2340,8 @@
         "source": "康是美"
     },
     {
-        "name": "MKUP金盞花粉刺毛孔淨化慕斯",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "史邁爾衛生套-粗顆粒型12入",
-        "price": "NT$199",
+        "name": "洗面乳推薦-Bio-essence碧歐斯 水感舒緩B5潔面霜100g",
+        "price": "NT$249",
         "source": "康是美"
     },
     {
@@ -2350,11 +2365,6 @@
         "source": "康是美"
     },
     {
-        "name": "我的心機高效安瓶EX特潤修護面膜（盒裝4入）",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
         "name": "雪芙蘭時間面膜-保濕大補帖5入",
         "price": "NT$199",
         "source": "康是美"
@@ -2362,11 +2372,6 @@
     {
         "name": "日本Pa指緣油base05",
         "price": "NT$169",
-        "source": "康是美"
-    },
-    {
-        "name": "森田藥粧天然絲瓜水150ml",
-        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -2382,6 +2387,11 @@
     {
         "name": "SEXYLOOK 高效保濕雙拉提面膜10入",
         "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "JIUJIU親親輕奢香水-J10（30ml）(4/11依序出貨)",
+        "price": "NT$720",
         "source": "康是美"
     },
     {
@@ -2410,13 +2420,13 @@
         "source": "康是美"
     },
     {
-        "name": "BEAUTYOUNG 高效緊緻膠原蛋白軟膜 28g",
-        "price": "NT$149",
+        "name": "瑞奇 蔬菜餅192g",
+        "price": "NT$170",
         "source": "康是美"
     },
     {
-        "name": "瑞奇 蔬菜餅192g",
-        "price": "NT$170",
+        "name": "韓國CJ 白雪韓式冬粉500G",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -2440,11 +2450,6 @@
         "source": "康是美"
     },
     {
-        "name": "點胭脂 繁花似錦壹壹零 球型粉撲刷 1入",
-        "price": "NT$398",
-        "source": "康是美"
-    },
-    {
         "name": "JIUJIU親親一次性旅行專用牙刷/灰",
         "price": "NT$49",
         "source": "康是美"
@@ -2455,7 +2460,12 @@
         "source": "康是美"
     },
     {
-        "name": "MDMMD.新涼感抑菌衛生棉超涼感一般型【蔓越莓】",
+        "name": "NIVEA妮維雅金盞花胺基酸微米淨膚泡泡慕斯180ml",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "MDMMD.新涼感抑菌衛生棉超涼感夜用型【蔓越莓】",
         "price": "NT$128",
         "source": "康是美"
     },
@@ -2480,6 +2490,11 @@
         "source": "康是美"
     },
     {
+        "name": "NIVEA妮維雅 煥膚柔嫩奇肌雙管精萃凝乳",
+        "price": "NT$679",
+        "source": "康是美"
+    },
+    {
         "name": "FaceQueen 維他命B3透亮淨白足膜1入",
         "price": "NT$129",
         "source": "康是美"
@@ -2495,13 +2510,8 @@
         "source": "康是美"
     },
     {
-        "name": "森田藥粧茶樹淨痘調理洗顏乳120g",
-        "price": "NT$169",
-        "source": "康是美"
-    },
-    {
-        "name": "Simply新普利 食事油切酵素錠EX（30錠）",
-        "price": "NT$1,380",
+        "name": "盛香珍杏仁奶油曲奇85g",
+        "price": "NT$79",
         "source": "康是美"
     },
     {
@@ -2515,11 +2525,6 @@
         "source": "康是美"
     },
     {
-        "name": "MediFlower 乳木果護手霜 （80g）",
-        "price": "NT$178",
-        "source": "康是美"
-    },
-    {
         "name": "雪芙蘭科研時間面膜-EX保濕修護4入",
         "price": "NT$199",
         "source": "康是美"
@@ -2530,13 +2535,13 @@
         "source": "康是美"
     },
     {
-        "name": "卡氛極致旅行組60ml*3",
-        "price": "NT$199",
+        "name": "LOREAL PARIS巴黎萊雅 卸妝潔顏水保濕型400ml",
+        "price": "NT$499",
         "source": "康是美"
     },
     {
-        "name": "NIVEA妮維雅 亮白彈潤緊膚乳液125ml",
-        "price": "NT$159",
+        "name": "博寶兒入浴球-飛天小女警（第1彈）130g",
+        "price": "NT$259",
         "source": "康是美"
     },
     {
@@ -2555,11 +2560,6 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思玻尿酸保濕水平衡潤澤霜50ML",
-        "price": "NT$950",
-        "source": "康是美"
-    },
-    {
         "name": "肌研光透潤酵母後生元美白面膜（盒裝5入）",
         "price": "NT$399",
         "source": "康是美"
@@ -2575,11 +2575,6 @@
         "source": "康是美"
     },
     {
-        "name": "Nature Garden 桃子紫丁香氛噴霧 04（15ml）",
-        "price": "NT$179",
-        "source": "康是美"
-    },
-    {
         "name": "靠得住無痕絲綿褲L號2片",
         "price": "NT$118",
         "source": "康是美"
@@ -2590,28 +2585,18 @@
         "source": "康是美"
     },
     {
-        "name": "樂扣樂扣藍莓慕斯耐熱玻璃保鮮盒/正方形/800ml",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "OUI ORGANIC 唯有機 玫瑰精萃煥顏保濕面膜 20ml 5片/盒",
-        "price": "NT$1,250",
-        "source": "康是美"
-    },
-    {
         "name": "MagicAmah妙管家瞬潔洗潔精（果香葡萄柚）500g",
         "price": "NT$119",
         "source": "康是美"
     },
     {
-        "name": "快潔適黑色紙軸棉花棒（200支）",
-        "price": "NT$109",
+        "name": "博寶兒 多益肽牙膏80g-葡萄口味",
+        "price": "NT$169",
         "source": "康是美"
     },
     {
-        "name": "博寶兒 多益肽牙膏80g-葡萄口味",
-        "price": "NT$169",
+        "name": "塩野義明日葉青汁 3gx30包",
+        "price": "NT$990",
         "source": "康是美"
     },
     {
@@ -2625,16 +2610,6 @@
         "source": "康是美"
     },
     {
-        "name": "Mdmmd新涼感抑菌衛生棉（超涼感）夜用加長型【蔓越莓】",
-        "price": "NT$128",
-        "source": "康是美"
-    },
-    {
-        "name": "【Probo博寶兒】醫療防護口罩-佩佩豬（15片/盒）（3-10歲適用）",
-        "price": "NT$249",
-        "source": "康是美"
-    },
-    {
         "name": "PEZRI派翠4D玻尿酸保濕去角質凝膠150ml",
         "price": "NT$680",
         "source": "康是美"
@@ -2645,11 +2620,6 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 超濃縮微生態修護安瓶面膜4片",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
         "name": "森田藥粧 全嫩白原液面膜3入",
         "price": "NT$239",
         "source": "康是美"
@@ -2657,6 +2627,11 @@
     {
         "name": "Nature Tree抗皺活膚濃縮精華液250ml",
         "price": "NT$349",
+        "source": "康是美"
+    },
+    {
+        "name": "DARLIE 好來全亮白極緻煥白牙貼14pc(包裝隨機出貨)",
+        "price": "NT$799",
         "source": "康是美"
     },
     {
@@ -2675,6 +2650,21 @@
         "source": "康是美"
     },
     {
+        "name": "LUX麗仕 清新法式小蒼蘭香氛 淨澈去屑洗髮精 470g",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "Simply新普利 食事油切酵素錠EX（30錠）",
+        "price": "NT$1,380",
+        "source": "康是美"
+    },
+    {
+        "name": "Johnson`s嬌生嬰兒潤膚油300ml",
+        "price": "NT$399",
+        "source": "康是美"
+    },
+    {
         "name": "SOFY蘇菲超熟睡褲乳木果油M號2片(包裝隨機出貨)",
         "price": "NT$119",
         "source": "康是美"
@@ -2682,16 +2672,6 @@
     {
         "name": "船井burner倍熱夜孅飲EX PLUS 7包入",
         "price": "NT$799",
-        "source": "康是美"
-    },
-    {
-        "name": "洗面乳推薦-Bio-essence碧歐斯 水感舒緩B5潔面霜100g",
-        "price": "NT$249",
-        "source": "康是美"
-    },
-    {
-        "name": "SwissVita薇佳 豐盈睫毛纖長液6ml",
-        "price": "NT$980",
         "source": "康是美"
     },
     {
@@ -2710,12 +2690,17 @@
         "source": "康是美"
     },
     {
-        "name": "Amma Garden艾瑪花園銀杏葉立體豐盈洗髮精300ml",
-        "price": "NT$199",
+        "name": "未來美8分鐘水白光氣墊面膜4入",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
-        "name": "未來美8分鐘水白光氣墊面膜4入",
+        "name": "我的心機高效安瓶EX特潤修護面膜（盒裝4入）",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "我的心機黑頭終結粉刺拔膜組",
         "price": "NT$399",
         "source": "康是美"
     },
@@ -2725,8 +2710,8 @@
         "source": "康是美"
     },
     {
-        "name": "德恩奈美白草本牙膏125g",
-        "price": "NT$185",
+        "name": "未來美8分鐘極速舒緩面膜5入",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -2736,6 +2721,11 @@
     },
     {
         "name": "JIUJIU親親輕奢香水-J12（30ml）",
+        "price": "NT$720",
+        "source": "康是美"
+    },
+    {
+        "name": "JIUJIU親親輕奢香水-J99（30ml）",
         "price": "NT$720",
         "source": "康是美"
     },
@@ -2765,11 +2755,6 @@
         "source": "康是美"
     },
     {
-        "name": "韓國CJ 白雪韓式冬粉500G",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
         "name": "樂扣樂扣藍莓慕斯耐熱玻璃保鮮盒/長方形/640ml",
         "price": "NT$399",
         "source": "康是美"
@@ -2782,6 +2767,21 @@
     {
         "name": "Neogence霓淨思澳洲茶樹控油淨痘面膜8片",
         "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "魅尚萱 HELLO CREAM染髮霜10WLB太妃糖棕",
+        "price": "NT$450",
+        "source": "康是美"
+    },
+    {
+        "name": "點胭脂 繁花似錦壹壹零 球型粉撲刷 1入",
+        "price": "NT$398",
+        "source": "康是美"
+    },
+    {
+        "name": "Hada-Labo肌研 光透潤玻尿酸纖維緊緻透亮面膜（盒裝6入）",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -2800,13 +2800,13 @@
         "source": "康是美"
     },
     {
-        "name": "YNM 糖果蜂蜜潤唇膏淺粉 （3g）",
-        "price": "NT$398",
+        "name": "未來美超能膠原B彈力護理修護面膜（4入）",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
-        "name": "MDMMD.新涼感抑菌衛生棉超涼感夜用型【蔓越莓】",
-        "price": "NT$128",
+        "name": "YNM 糖果蜂蜜潤唇膏淺粉 （3g）",
+        "price": "NT$398",
         "source": "康是美"
     },
     {
@@ -2840,11 +2840,6 @@
         "source": "康是美"
     },
     {
-        "name": "盛香珍杏仁奶油曲奇85g",
-        "price": "NT$79",
-        "source": "康是美"
-    },
-    {
         "name": "熊寶貝天然溫和護衣芳香豆-法國玫瑰X茉莉 350ML",
         "price": "NT$245",
         "source": "康是美"
@@ -2855,8 +2850,8 @@
         "source": "康是美"
     },
     {
-        "name": "LUX麗仕 清新法式小蒼蘭香氛 淨澈去屑洗髮精 470g",
-        "price": "NT$299",
+        "name": "森田藥粧茶樹淨痘調理洗顏乳120g",
+        "price": "NT$169",
         "source": "康是美"
     },
     {
@@ -2890,8 +2885,8 @@
         "source": "康是美"
     },
     {
-        "name": "Sebamed施巴 5.5潔膚露200ml",
-        "price": "NT$380",
+        "name": "NIVEA妮維雅 亮白彈潤緊膚乳液125ml",
+        "price": "NT$159",
         "source": "康是美"
     },
     {
@@ -2900,13 +2895,8 @@
         "source": "康是美"
     },
     {
-        "name": "JIUJIU親親輕奢香水-J99（30ml）",
+        "name": "JIUJIU親親輕奢香水-J48（30ml）",
         "price": "NT$720",
-        "source": "康是美"
-    },
-    {
-        "name": "寶貝妮3D超薄衛生棉24cm （一般~量少）12片",
-        "price": "NT$79",
         "source": "康是美"
     },
     {
@@ -2925,6 +2915,11 @@
         "source": "康是美"
     },
     {
+        "name": "大研生醫維他命C緩釋膜衣錠60錠/盒",
+        "price": "NT$870",
+        "source": "康是美"
+    },
+    {
         "name": "大研生醫綜合維他命緩釋膜衣錠60錠/盒",
         "price": "NT$960",
         "source": "康是美"
@@ -2932,6 +2927,11 @@
     {
         "name": "大研生醫B群緩釋雙層錠30錠/盒",
         "price": "NT$900",
+        "source": "康是美"
+    },
+    {
+        "name": "肌研光透潤酵母後生元彈潤面膜（盒裝5入）",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -2960,13 +2960,23 @@
         "source": "康是美"
     },
     {
-        "name": "Nature Garden 果汁甜心香氛噴霧 01（15ml）",
+        "name": "Nature Garden 桃子紫丁香氛噴霧 04（15ml）",
         "price": "NT$179",
+        "source": "康是美"
+    },
+    {
+        "name": "Vaseline凡士林 涼感水潤透亮潤膚露 320ML",
+        "price": "NT$389",
         "source": "康是美"
     },
     {
         "name": "AMAZE 法國植萃衣物香氛豆-海洋中性白麝香",
         "price": "NT$338",
+        "source": "康是美"
+    },
+    {
+        "name": "樂扣樂扣藍莓慕斯耐熱玻璃保鮮盒/正方形/800ml",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -2977,6 +2987,11 @@
     {
         "name": "大研生醫好攝力南瓜籽黑麥花膠囊",
         "price": "NT$2,250",
+        "source": "康是美"
+    },
+    {
+        "name": "Magic Amah妙管家消臭液-甜美馨香400ml",
+        "price": "NT$99",
         "source": "康是美"
     },
     {
@@ -3000,28 +3015,8 @@
         "source": "康是美"
     },
     {
-        "name": "DermaAngel護妍天使 益菌生積雪草保濕爽膚棉65片/130ml",
-        "price": "NT$650",
-        "source": "康是美"
-    },
-    {
-        "name": "Hada-Labo肌研 光透潤玻尿酸纖維緊緻透亮面膜（盒裝6入）",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
         "name": "Za 溫和柔潤胺基酸潔面乳",
         "price": "NT$250",
-        "source": "康是美"
-    },
-    {
-        "name": "YNM 糖果蜂蜜潤唇膏橘紅 （3g）",
-        "price": "NT$398",
-        "source": "康是美"
-    },
-    {
-        "name": "未來美超能膠原B彈力護理修護面膜（4入）",
-        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -3041,6 +3036,11 @@
     },
     {
         "name": "百齡護牙周到PRO漱口水-防蛀抗菌配方750ml",
+        "price": "NT$249",
+        "source": "康是美"
+    },
+    {
+        "name": "【Probo博寶兒】醫療防護口罩-TAYO（15片/盒）（3~10歲適用）",
         "price": "NT$249",
         "source": "康是美"
     },
@@ -3065,11 +3065,6 @@
         "source": "康是美"
     },
     {
-        "name": "我的心機穀胱甘肽亮白黑面膜（盒裝6入）",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
         "name": "我的心機積雪草分子酊保濕黑面膜（盒裝6入）",
         "price": "NT$299",
         "source": "康是美"
@@ -3090,8 +3085,13 @@
         "source": "康是美"
     },
     {
-        "name": "船井burner倍熱極纖飲7包",
-        "price": "NT$799",
+        "name": "Queen Bee 草本沁香植妍皂-修護彈性100gX3入盒",
+        "price": "NT$109",
+        "source": "康是美"
+    },
+    {
+        "name": "統一生機脆穀優果麥片-香甜紫藷240g",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -3115,8 +3115,18 @@
         "source": "康是美"
     },
     {
+        "name": "SwissVita薇佳 豐盈睫毛纖長液6ml",
+        "price": "NT$980",
+        "source": "康是美"
+    },
+    {
         "name": "我的心機高效安瓶EX瞬效淡斑面膜（盒裝4入）",
         "price": "NT$299",
+        "source": "康是美"
+    },
+    {
+        "name": "Amma Garden艾瑪花園銀杏葉立體豐盈洗髮精300ml",
+        "price": "NT$199",
         "source": "康是美"
     },
     {
@@ -3125,8 +3135,8 @@
         "source": "康是美"
     },
     {
-        "name": "我的心機黑頭終結粉刺拔膜組",
-        "price": "NT$399",
+        "name": "日本Pa快乾透明美甲油6mlA115",
+        "price": "NT$129",
         "source": "康是美"
     },
     {
@@ -3135,13 +3145,8 @@
         "source": "康是美"
     },
     {
-        "name": "未來美8分鐘極速舒緩面膜5入",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "JIUJIU親親輕奢香水-J48（30ml）",
-        "price": "NT$720",
+        "name": "德恩奈美白草本牙膏125g",
+        "price": "NT$185",
         "source": "康是美"
     },
     {
@@ -3156,6 +3161,11 @@
     },
     {
         "name": "寶貝妮3D清涼草本衛生棉35cm（夜安加長型）6片",
+        "price": "NT$79",
+        "source": "康是美"
+    },
+    {
+        "name": "寶貝妮3D超薄衛生棉24cm （一般~量少）12片",
         "price": "NT$79",
         "source": "康是美"
     },
@@ -3190,11 +3200,6 @@
         "source": "康是美"
     },
     {
-        "name": "肌研光透潤酵母後生元彈潤面膜（盒裝5入）",
-        "price": "NT$399",
-        "source": "康是美"
-    },
-    {
         "name": "Neogence霓淨思 橙花淨白透亮花美肌面膜6入",
         "price": "NT$299",
         "source": "康是美"
@@ -3220,11 +3225,6 @@
         "source": "康是美"
     },
     {
-        "name": "Vaseline凡士林 SPF30透亮防曬修護潤膚露 320ML",
-        "price": "NT$389",
-        "source": "康是美"
-    },
-    {
         "name": "Neogence霓淨思 近距離美肌平衡控油面膜4入盒裝",
         "price": "NT$299",
         "source": "康是美"
@@ -3240,23 +3240,13 @@
         "source": "康是美"
     },
     {
-        "name": "Magic Amah妙管家消臭液-甜美馨香400ml",
-        "price": "NT$99",
-        "source": "康是美"
-    },
-    {
         "name": "HEALIC皙麗可 水潤亮白爽膚面膜(5片)",
         "price": "NT$980",
         "source": "康是美"
     },
     {
-        "name": "魅尚萱 HELLO CREAM染髮霜10WLB太妃糖棕",
-        "price": "NT$450",
-        "source": "康是美"
-    },
-    {
-        "name": "我的心機超能安瓶積雪草水潤透嫩面膜（盒裝4入）",
-        "price": "NT$299",
+        "name": "DermaAngel護妍天使 益菌生積雪草保濕爽膚棉65片/130ml",
+        "price": "NT$650",
         "source": "康是美"
     },
     {
@@ -3267,6 +3257,11 @@
     {
         "name": "小熊維尼系列 九色眼影盤（蜜罐橘棕）126.5g",
         "price": "NT$450",
+        "source": "康是美"
+    },
+    {
+        "name": "小熊維尼系列 柔霧唇釉-跳跳虎37.5g",
+        "price": "NT$350",
         "source": "康是美"
     },
     {
@@ -3320,8 +3315,13 @@
         "source": "康是美"
     },
     {
-        "name": "統一生機脆穀優果麥片-香甜紫藷240g",
-        "price": "NT$199",
+        "name": "Neogence霓淨思 玻尿酸保濕原液30ml",
+        "price": "NT$1,650",
+        "source": "康是美"
+    },
+    {
+        "name": "日本Pa甜心美甲油6ml S004(4/15依序出貨)",
+        "price": "NT$129",
         "source": "康是美"
     },
     {
@@ -3355,11 +3355,6 @@
         "source": "康是美"
     },
     {
-        "name": "日本Pa快乾透明美甲油6mlA115",
-        "price": "NT$129",
-        "source": "康是美"
-    },
-    {
         "name": "我的心機蝸牛保水修護黑面膜8入",
         "price": "NT$299",
         "source": "康是美"
@@ -3372,16 +3367,6 @@
     {
         "name": "我的心機超能安瓶特嫩修護生物纖維面膜3入",
         "price": "NT$399",
-        "source": "康是美"
-    },
-    {
-        "name": "我的心機維他命C透亮煥白水凝眼膜10對入",
-        "price": "NT$299",
-        "source": "康是美"
-    },
-    {
-        "name": "博寶兒入浴球-飛天小女警（第1彈）130g",
-        "price": "NT$259",
         "source": "康是美"
     },
     {
@@ -3427,11 +3412,6 @@
     {
         "name": "Simply 新普利 Omega-3平衡魚油",
         "price": "NT$1,680",
-        "source": "康是美"
-    },
-    {
-        "name": "大研生醫維他命C緩釋膜衣錠60錠/盒",
-        "price": "NT$870",
         "source": "康是美"
     },
     {
@@ -3495,13 +3475,18 @@
         "source": "康是美"
     },
     {
-        "name": "靠得住無痕絲綿褲M號2片",
-        "price": "NT$118",
+        "name": "Nature Garden 果汁甜心香氛噴霧 01（15ml）",
+        "price": "NT$179",
         "source": "康是美"
     },
     {
-        "name": "Vaseline凡士林 涼感水潤透亮潤膚露 320ML",
+        "name": "Vaseline凡士林 SPF30透亮防曬修護潤膚露 320ML",
         "price": "NT$389",
+        "source": "康是美"
+    },
+    {
+        "name": "靠得住無痕絲綿褲M號2片",
+        "price": "NT$118",
         "source": "康是美"
     },
     {
@@ -3540,8 +3525,18 @@
         "source": "康是美"
     },
     {
+        "name": "樂扣樂扣藍莓慕斯耐熱玻璃保鮮盒/長方形/1520ml",
+        "price": "NT$599",
+        "source": "康是美"
+    },
+    {
         "name": "塩野義健視計畫30粒/盒",
         "price": "NT$1,400",
+        "source": "康是美"
+    },
+    {
+        "name": "OUI ORGANIC 唯有機 玫瑰精萃煥顏保濕面膜 20ml 5片/盒",
+        "price": "NT$1,250",
         "source": "康是美"
     },
     {
@@ -3570,11 +3565,6 @@
         "source": "康是美"
     },
     {
-        "name": "YNM 獨角獸蜂蜜潤唇膏#透明蘋果紅 （3g）",
-        "price": "NT$398",
-        "source": "康是美"
-    },
-    {
         "name": "魅尚萱 HELLO CREAM染髮霜5WDB奶茶栗棕",
         "price": "NT$450",
         "source": "康是美"
@@ -3590,11 +3580,6 @@
         "source": "康是美"
     },
     {
-        "name": "小熊維尼系列 柔霧唇釉-跳跳虎37.5g",
-        "price": "NT$350",
-        "source": "康是美"
-    },
-    {
         "name": "我的心機25%胺基酸＋純92%酵母柔嫩潔顏露150ml",
         "price": "NT$780",
         "source": "康是美"
@@ -3607,6 +3592,11 @@
     {
         "name": "葡萄王精采優適金盞花萃取物含葉黃素粉末30包",
         "price": "NT$1,400",
+        "source": "康是美"
+    },
+    {
+        "name": "YNM 糖果蜂蜜潤唇膏橘紅 （3g）",
+        "price": "NT$398",
         "source": "康是美"
     },
     {
@@ -3690,6 +3680,11 @@
         "source": "康是美"
     },
     {
+        "name": "我的心機穀胱甘肽亮白黑面膜（盒裝6入）",
+        "price": "NT$299",
+        "source": "康是美"
+    },
+    {
         "name": "日本Pa甜心美甲油6ml S072",
         "price": "NT$129",
         "source": "康是美"
@@ -3735,13 +3730,38 @@
         "source": "康是美"
     },
     {
+        "name": "船井burner倍熱極纖飲7包",
+        "price": "NT$799",
+        "source": "康是美"
+    },
+    {
         "name": "日本Pa甜心美甲油6ml S007",
         "price": "NT$129",
         "source": "康是美"
     },
     {
+        "name": "日本Pa甜心美甲油6ml S010",
+        "price": "NT$129",
+        "source": "康是美"
+    },
+    {
+        "name": "日本Pa甜心美甲油6ml S015(4/15依序出貨)",
+        "price": "NT$129",
+        "source": "康是美"
+    },
+    {
+        "name": "統一生機脆穀優果麥片-經典優果240g",
+        "price": "NT$199",
+        "source": "康是美"
+    },
+    {
         "name": "LUX麗仕植萃香氛沐浴露-浪漫晚櫻花香 550g",
         "price": "NT$260",
+        "source": "康是美"
+    },
+    {
+        "name": "日本Pa甜心美甲油6mlA152",
+        "price": "NT$129",
         "source": "康是美"
     },
     {
@@ -3777,11 +3797,6 @@
     {
         "name": "Maynalo美娜多水潤化妝棉（60枚*2入）",
         "price": "NT$158",
-        "source": "康是美"
-    },
-    {
-        "name": "未來美EX8分鐘PRO安瓶水潤面膜(3入)",
-        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -3827,6 +3842,11 @@
     {
         "name": "鵝梨-精萃鵝脂抗皺保溼面膜6片",
         "price": "NT$420",
+        "source": "康是美"
+    },
+    {
+        "name": "我的心機維他命C透亮煥白水凝眼膜10對入",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -4010,11 +4030,6 @@
         "source": "康是美"
     },
     {
-        "name": "樂扣樂扣藍莓慕斯耐熱玻璃保鮮盒/長方形/1520ml",
-        "price": "NT$599",
-        "source": "康是美"
-    },
-    {
         "name": "樂扣樂扣藍莓慕斯耐熱玻璃保鮮盒/長方形/1040ml",
         "price": "NT$499",
         "source": "康是美"
@@ -4035,17 +4050,17 @@
         "source": "康是美"
     },
     {
+        "name": "YNM 獨角獸蜂蜜潤唇膏#透明蘋果紅 （3g）",
+        "price": "NT$398",
+        "source": "康是美"
+    },
+    {
         "name": "EASE峮峮聯名擴香-月MOON100ml",
         "price": "NT$1,080",
         "source": "康是美"
     },
     {
         "name": "JIUJIU親親48孔寬薄專業護理牙刷（紫）",
-        "price": "NT$129",
-        "source": "康是美"
-    },
-    {
-        "name": "JIUJIU親親48孔寬薄專業護理牙刷（黃）",
         "price": "NT$129",
         "source": "康是美"
     },
@@ -4070,18 +4085,13 @@
         "source": "康是美"
     },
     {
-        "name": "DEAR DAHLIA 閃耀水感亮彩餅 ［北極星］",
-        "price": "NT$1,000",
-        "source": "康是美"
-    },
-    {
-        "name": "DEAR DAHLIA 淨膚溫和卸妝水 ［正裝］",
-        "price": "NT$980",
-        "source": "康是美"
-    },
-    {
         "name": "DEAR DAHLIA 完美塑形防水眼線筆 ［深黑］0.05gx2",
         "price": "NT$700",
+        "source": "康是美"
+    },
+    {
+        "name": "我的心機超能安瓶積雪草水潤透嫩面膜（盒裝4入）",
+        "price": "NT$299",
         "source": "康是美"
     },
     {
@@ -4210,11 +4220,6 @@
         "source": "康是美"
     },
     {
-        "name": "Neogence霓淨思 玻尿酸保濕原液30ml",
-        "price": "NT$1,650",
-        "source": "康是美"
-    },
-    {
         "name": "CARMEX小蜜媞修護唇膏 薄荷糖口味10g",
         "price": "NT$139",
         "source": "康是美"
@@ -4240,11 +4245,6 @@
         "source": "康是美"
     },
     {
-        "name": "日本Pa甜心美甲油6ml S010",
-        "price": "NT$129",
-        "source": "康是美"
-    },
-    {
         "name": "日本Pa甜心美甲油6ml S012",
         "price": "NT$129",
         "source": "康是美"
@@ -4255,23 +4255,8 @@
         "source": "康是美"
     },
     {
-        "name": "Queen Bee 草本沁香植妍皂-修護彈性100gX3入盒",
-        "price": "NT$109",
-        "source": "康是美"
-    },
-    {
-        "name": "統一生機脆穀優果麥片-經典優果240g",
-        "price": "NT$199",
-        "source": "康是美"
-    },
-    {
         "name": "我的心機牛奶嫩白柔滑身體去角質250g",
         "price": "NT$199",
-        "source": "康是美"
-    },
-    {
-        "name": "日本Pa甜心美甲油6mlA152",
-        "price": "NT$129",
         "source": "康是美"
     },
     {
@@ -4287,6 +4272,11 @@
     {
         "name": "Farcent香水胺基酸沐浴露-真我星夜780g",
         "price": "NT$369",
+        "source": "康是美"
+    },
+    {
+        "name": "未來美EX8分鐘PRO安瓶水潤面膜(3入)",
+        "price": "NT$399",
         "source": "康是美"
     },
     {
@@ -4455,8 +4445,23 @@
         "source": "康是美"
     },
     {
+        "name": "JIUJIU親親48孔寬薄專業護理牙刷（黃）",
+        "price": "NT$129",
+        "source": "康是美"
+    },
+    {
+        "name": "DEAR DAHLIA 淨膚溫和卸妝水 ［正裝］",
+        "price": "NT$980",
+        "source": "康是美"
+    },
+    {
         "name": "DEAR DAHLIA 閃耀水感亮彩餅 ［碎鑽］",
         "price": "NT$1,000",
+        "source": "康是美"
+    },
+    {
+        "name": "澳佳寶 金盞花葉黃素＋紅藻蝦紅素＋B6 30顆",
+        "price": "NT$1,099",
         "source": "康是美"
     },
     {
@@ -4471,41 +4476,6 @@
     },
     {
         "name": "日本Pa甜心美甲油6mlA181",
-        "price": "NT$129",
-        "source": "康是美"
-    },
-    {
-        "name": "蜂王 瑩潤透白美膚茶皂100g",
-        "price": "NT$45",
-        "source": "康是美"
-    },
-    {
-        "name": "DARLIE好來超氟抗敏護理牙膏140g",
-        "price": "NT$120",
-        "source": "康是美"
-    },
-    {
-        "name": "JIUJIU親親輕奢香水-J10（30ml）",
-        "price": "NT$720",
-        "source": "康是美"
-    },
-    {
-        "name": "寶貝妮3D超薄衛生棉42cm（夜安熟睡型）5片",
-        "price": "NT$59",
-        "source": "康是美"
-    },
-    {
-        "name": "日本Pa甜心美甲油6ml S004",
-        "price": "NT$129",
-        "source": "康是美"
-    },
-    {
-        "name": "DEAR DAHLIA 天堂溫和絲滑粉底液 ［FN4］",
-        "price": "NT$1,150",
-        "source": "康是美"
-    },
-    {
-        "name": "日本Pa甜心美甲油6ml S015",
         "price": "NT$129",
         "source": "康是美"
     }
